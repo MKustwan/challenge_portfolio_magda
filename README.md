@@ -15,11 +15,16 @@ Moje oczekiwania - to przede wszystkim feedback od mentorów, którzy wskażą m
 
 ## Subtask 4
 ### Na czym polega ta aplikacja? Do czego służy?
-- aplikacja Scouts Panel 
+- aplikacja Scouts Panel służy rejestrowaniu graczy, po zarejestrowaniu gracza jest możliwość dodania meczu / meczów oraz raportu / raportów dla konkretnego zawodnika,
+-  na stronie głównej aplikacji widnieją panele wskazują ilość graczy, ilość meczy, ilość raportów, ilość akcji
 ### Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
 ### Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
+Interfejs aplikacji nie jest intuicyjny, "atrakcyjny", treści zamieszczone w aplikacji i grafika są dosyć ubogie, nie przyciągają wzroku oraz nie zachęcają do ponownego skorzystania. 
+W aplikacji praktycznie nie zastosowano obrazów, typografii, czy innych elemntów projektu wizualnych, więc jakość interakcji użytkownika z aplikacją nie będzie wysoka.
+
 ### Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
-- aplikacja nie jest intuicyjna - nie ma żadnych informacji do aplikacja czego służy, po zalogowaniu się następuje przekierowanie na stronę główną, przy czym nie jest intuicyjnie wiadomo, która zakładka służy do czego,
+Przy pierwszym zalogowaniu tak na prawdę nie wiemy jakie funkcjonalności są w aplikacji dostępne, musimy przeklikać wszystkie opcje, żeby dojść do tego jakie funkcjonalności są w aplikacji dostępne. Zatem aplikacja nie pozwala na szybkie i wygodne wykonanie akcji. Tak więc doświadczenia użytkownika w kontakcie z tą aplikacją nie są naturalne, intuicyjne i przebrnięcie przez całą apliakcję nie jest "przyjemne", tak więc zasada minimalnego wysiłku przy maksymalnym pożądanym efekcie nie została zachowana.
+Pasek menu, przyciski w aplikacji nie pozwalają na łatwy przebieg interakcji człowieka z oprogramowaniem np. w pasku menu jest przycisk "GRACZE", po wejściu w tą zakładkę nie ma możliwości dodania nowego gracza co jest nie intuicyjne, także po najechaniu kursorem na istniejącego gracza ciężko stwierdzić czy można edytować jego dane (po najchaniu kursosem na danego gracza kursor nie zamienia sią ze strzałki w łapkę).
 ### Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
 Przeglądarka Google Chrome (Firefox, Opera, Edge działa), 
 - strona główna, panel logowania - przy braku podania loginu i braku hasła oraz zaznaczonej opcji języka polskiego pojawia się komunikat walidacyjny jest w języku angielskim (a powinien w polskim),
