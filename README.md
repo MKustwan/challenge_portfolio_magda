@@ -16,17 +16,32 @@ Moje oczekiwania - to przede wszystkim feedback od mentorów, którzy wskażą m
 ## Subtask 4
 ### Na czym polega ta aplikacja? Do czego służy?
 - aplikacja Scouts Panel służy rejestrowaniu graczy, po zarejestrowaniu gracza jest możliwość dodania meczu / meczów oraz raportu / raportów dla konkretnego zawodnika,
--  na stronie głównej aplikacji widnieją panele wskazują ilość graczy, ilość meczy, ilość raportów, ilość akcji
+-  na stronie głównej aplikacji widnieją panele wskazujące ilość graczy, ilość meczy, ilość raportów, ilość akcji
 ### Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
+- logowanie / wylogowanie z systemu,
+- dodawanie nowego gracza,
+- dla konkretnego zawodnika jest możliwość dodania meczu (w zakładce mecze po stworzeniu meczu dla konkretnego zawodnika jest możliwość jego edycji, dodania raportu i rozpoczęcia meczu),
+- dla konkretnego zawodnika w zakładce Raporty teoretycznie jest możliwe dodanie nowego raportu (przycisk "DODAJ RAPORT"), ale funkcja ta nie działa i po nakliknięciu w przycisk "DODAJ RAPORT" zamiast możliwości dodania raportu następuję przekierowanie do zakładki mecze. Możliwa jest edycja istniejącego formularza,
+- wchodząc kolejno w zakładkę "Gracze" => wybór konkretnego gracza => wybór zakładki "Mecze", dla konretnego meczu jest możliwość rozpoczęcia meczu,
+- w zakładce "Gracze" dostępna jest funkcja wygenerowania pliku csv z listą wszystkich graczy,
+- w zakładce "Gracze" dostępna jest funkcja wydrukowania pliku pdf z listą wszystkich graczy,
+- w zakładce "Gracze" możliwe jest ukrywanie / odkrywanie wszystkich dostępnych kolumn tj. Imię, Nazwisko, Wiek, Pozycja, Klub, Recenzja, Mecze, Raporty,
+- w zakładce "Gracze" mamy możliwość przefiltrowania rekordów po konkretnych wartościach,
+- na stronie głównej jest link do kontaktu z Dev Team (przekierowania do Slacka),
+- na stronie głównej w panelu "Aktywność" wyświetlają się ostatnio dokonane aktywności tj. stworzenie / aktualizacja gracza, stworzenie / aktualizacja meczu, stworzenie / aktualizaja raportu => możliwość ich edycji,
+- możliwość wyboru języka, w któryms strona się wyświeli, do wyboru opcja języka polskiego bądź angielskiego,
+- 
 ### Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 Interfejs aplikacji nie jest intuicyjny, "atrakcyjny", treści zamieszczone w aplikacji i grafika są dosyć ubogie, nie przyciągają wzroku oraz nie zachęcają do ponownego skorzystania. 
-W aplikacji praktycznie nie zastosowano obrazów, rysunków, widgetów więc jakość interakcji użytkownika z aplikacją nie będzie wysoka, co czyni ją trudno przyswajalną. Brak jest grafik, ikon, więc aplikacja przez to także traci na pozytywnym odbiorze użytkownika.
+W aplikacji praktycznie nie zastosowano obrazów, rysunków, widgetów więc jakość interakcji użytkownika z aplikacją nie będzie wysoka, co czyni ją trudno przyswajalną. Brak jest grafik, ikon, więc aplikacja przez to także traci na pozytywnym odbiorze użytkownika. Aplikacja nie jest funkcjonalna, trudna w użyciu, intuicyjna, co może spowodować brak chęci użytkowników z jej korzystania.
 
 ### Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
-Przy pierwszym zalogowaniu tak na prawdę nie wiemy jakie funkcjonalności są w aplikacji dostępne, musimy przeklikać wszystkie opcje, żeby dojść do tego jakie funkcjonalności są w aplikacji dostępne. Zatem aplikacja nie pozwala na szybkie i wygodne wykonanie akcji. Tak więc doświadczenia użytkownika w kontakcie z tą aplikacją nie są naturalne, intuicyjne i przebrnięcie przez całą apliakcję nie jest "przyjemne", tak więc zasada minimalnego wysiłku przy maksymalnym pożądanym efekcie nie została zachowana.
-Pasek menu, przyciski w aplikacji nie pozwalają na łatwy przebieg interakcji człowieka z oprogramowaniem np. w pasku menu jest przycisk "GRACZE", po wejściu w tą zakładkę nie ma możliwości dodania nowego gracza co jest nie intuicyjne, także po najechaniu kursorem na istniejącego gracza ciężko stwierdzić czy można edytować jego dane (po najchaniu kursosem na danego gracza kursor nie zamienia sią ze strzałki w łapkę).
+Przy pierwszym zalogowaniu tak na prawdę nie wiemy jakie funkcjonalności są w aplikacji dostępne, musimy przeklikać wszystkie opcje, żeby dojść do tego jakie funkcjonalności są w aplikacji dostępne. Zatem aplikacja nie pozwala na szybkie i wygodne wykonanie akcji. Doświadczenia użytkownika w kontakcie z tą aplikacją nie są naturalne, intuicyjne i przebrnięcie przez całą apliakcję nie jest "przyjemne", tak więc zasada minimalnego wysiłku przy maksymalnym pożądanym efekcie nie została zachowana.
+Pasek menu, przyciski w aplikacji nie pozwalają na łatwy przebieg interakcji człowieka z oprogramowaniem np. w pasku menu jest przycisk "GRACZE", po wejściu w tą zakładkę nie ma możliwości dodania nowego gracza co jest nie intuicyjne, także po najechaniu kursorem na istniejącego gracza ciężko stwierdzić czy można edytować jego dane (po najchaniu kursorem na danego gracza kursor nie zamienia sią ze strzałki w łapkę). 
+Formularz dodawania nowego zawodnika możliwy jest tylko ze strony głównej i umieszczony jest w panelu "LINKI POMOCNICZE" - opis tego panelu jest nieintuicyjny, wydaje się że opcja dodania nowego gracza jest jedną z ważniejszych funkcjonalności aplikacji, nawigacja po aplikacji nie jest zatem bezproblemowa (musimy poświęcić stosunkowo dużo czasu i energii, żeby opanować jakie funkcjonalności w aplikacji są dostępne).
 ### Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
-Przeglądarka Google Chrome (Firefox, Opera, Edge działa), 
+Aplikacja uruchomiona na najbardziej popularnych przeglądarkach Google Chrome, Firefox, Opera, Edge, na wszystkich działa.
+Lista wychwyconych błędów:
 - strona główna, panel logowania - przy braku podania loginu i braku hasła oraz zaznaczonej opcji języka polskiego pojawia się komunikat walidacyjny jest w języku angielskim (a powinien w polskim),
 - strona główna, przy logowaniu mamy dwa pola do wypełnienia Login i Hasło, komunikat walidacyjny w przypadku braku podania loginu lub błędnego podania loginu wyświetla się pod polem z hasłem, co jest nieczytelne / mylące, nie ma rozbicia na komunikat walidaycjny pod polem login i pod polem hasło osobno;
 - w przypadku kliknięcia buttona "Przypomnij hasło" przekierowanie na stronę, na której należy podać hasło e'mail, przy braku podania adresu e'mail i kliknięciu w button WYŚLIJ/SEND pojawia się komunikat "Wysłano wiadomość na podany adres e'mail" (w devtoolsach błąd 400), nie pojawia się komunikat walidacyjny,
