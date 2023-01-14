@@ -69,10 +69,11 @@ Odnośnie pozostałych nie wymaganych pól w formularzu z edycją / dodanie grac
 - przycisk "DODAJ LINK Z YOUTUBE" - akceptowany jest niepoprawny format danych (np. wprowadzona wartość "98" jest akceptowana). Wpisując poprawny adres strony nie generuje się link, adres trzeba skopiować i wprowadzić do przeglądarki, nie ma możliwości bezpośrednio kliknięcia w link i przekierowania na wskazaną stronę;
 - przysick "CLEAR" powinien wyczyścić wszystkie dane, a usuwane są tylko dane z pól nieobowiązkowych, wartości podane w polach obowiązkowych zmienione mogą zostać tylko poprzez ręczne wejście w poszczególne pola,
 
-- MENU GŁÓWNE, PRZYCISK GRACZE
+MENU GŁÓWNE, PRZYCISK GRACZE
 1. Będąc na stronie z listą wszystkich graczy w górnym panelu jest opcja wyszukiwania danych, niestety nie jest wiadomo, po której kolumnie dane będą wyszukiwane, trzeba ręcznie wpisywać wartości, żeby sprawdzić po których kolumnach wartości są wyszukiwane. Wyszukiwanie nie działa dla kolumny WIEK, RECENZJA, MECZE, RAPORTY.
 Mając zaznaczoną opcję języka polskiego napis przy lupce jest w języku angielskim "SEARCH" a powinno być "SZUKAJ".
 2. Mając zaznaczoną opcję języka polskiego opis ikon w prawym, górnym rogu okna po najechaniu na nie kursorem (ściągnięcie pliku csv, wydruk, widok, filtrowanie tabeli) jest w języku angielskim.
-3. 
+3. Opcja filtrowania tabeli - wpisanie w dowolnym polu zadanej przez nas wartości, powoduje wyszukanie podanych wg naszych kryteriów rekordów. 
+Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy wartość usunąć wprowadzone dane i wcisnąć ENTER, wówczas pojawia się pełna lista graczy. Przycisk RESET znajdujący w oknie filtrowania, usuwa jedynie wprowadzoną przez nas ręcznie wartość, ale nie przywraca widoku pełnje listy graczy, co powinno intuicyjnie nastąpić.
 
 
