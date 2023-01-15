@@ -31,7 +31,7 @@ W menu głównym, wybierając kategorię "GRACZE", następnie wybierając konkre
 - w menu głównym wybierając kategorię "GRACZE" wyświetla się lista wszystkich graczy => możliwe jest ukrywanie / odkrywanie wszystkich dostępnych kolumn tj. Imię, Nazwisko, Wiek, Pozycja, Klub, Recenzja, Mecze, Raporty => nad tabelą zestawiającą wszystkich graczy są cztery ikony, klikając w trzecią ikonę "VIEW COLUMNS" możemy ukrywać / odkrywać kolumny,
 - w menu głównym wybierając kategorię "GRACZE" wyświetla się lista wszystkich graczy => mamy możliwość przefiltrowania rekordów po konkretnych wartościach => nad tabelą zestawiającą wszystkich graczy są cztery ikony, klikając w czwartą ikonę "FILTER TABLE" mamy możliwość przefiltrowania rekordów po konkretnych wartościach,
 - na stronie głównej jest link do kontaktu z Dev Team (przekierowanie do Slacka),
-- na stronie głównej w bloku "AKTYWNOŚĆ" wyświetlają się ostatnio dokonane aktywności tj. stworzenie / aktualizacja gracza, stworzenie / aktualizacja meczu, stworzenie / aktualizaja raportu => klikając w konkretną aktwyność przekierowani zostajemy edycji gracza / meczu / raportu,
+- na stronie głównej w bloku "AKTYWNOŚĆ" wyświetlają się ostatnio dokonane aktywności tj. stworzenie / aktualizacja gracza, stworzenie / aktualizacja meczu, stworzenie / aktualizaja raportu => klikając w konkretną aktywność przekierowani zostajemy edycji gracza / meczu / raportu,
 - możliwość wyboru języka, w którym strona się wyświeli, do wyboru opcja języka polskiego bądź angielskiego.
 ### Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 Interfejs aplikacji nie jest intuicyjny, "atrakcyjny", treści zamieszczone w aplikacji i grafika są dosyć ubogie, nie przyciągają wzroku oraz nie zachęcają do ponownego skorzystania. 
