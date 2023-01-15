@@ -6,7 +6,7 @@ Cześć nazywam się Magda. Obecnie pracuję poza branżą IT i od dłuższego c
 
 W testowaniu podoba mi się to, że jest to praca rozwojowa, wymagająca zaangażowania, ciągłego dokształcania się, czyli cały czas na przód + zdobywanie nowych celów, to jest to co mnie motywuje.
 
-Projekt spodobał mi się, właśnie ze względu na praktyczne zadania, dzięki czemu poznam od podszewki pracę testera + usystematyzuje wiedzę teoretyczną, którą do tej pory zdobyłam. 
+Projekt spodobał mi się, właśnie ze względu na praktyczne zadania, dzięki czemu poznam od podszewki pracę testera + usystematyzuję wiedzę teoretyczną, którą do tej pory zdobyłam. 
 
 Moim celem jest wykonanie terminowo wszystkich zadań, zdobycie doświadczenia, dzięki czemu będę mogła rozpocząć poszukiwania wymarzonej pracy :)
 Moje oczekiwania - to przede wszystkim feedback od mentorów, którzy wskażą mi co mogę poprawić / ulepszyć w mojej pracy.
