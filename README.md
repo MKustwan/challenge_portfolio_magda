@@ -2,11 +2,11 @@
 ## Subtask 1
 10/10
 ## Subtask 3
-<p align="justify"> Cześć nazywam się Magda. Obecnie pracuję poza branżą IT i od dłuższego czasu myślę o przebranżowieniu się w kierunku testera (na początku manualnego, w planach automatyzującego), dlatego szukam różnych możliwości kształcenia się w tym kierunku i zdobywania doświadczenia. Wzięłam udział w spotkaniu "Junior QA - najbardziej pożądane umiejętności i rola w zespole developerskim", które prowadziła Patrycja. Dzięki temu spotkaniu dowiedziałam się o challengu + bardzo spodobało mi się podejście Patrycji, więc stwierdziłam, że udział w nim będzie strzałem w dziesiątkę - poznanie testowania z praktycznego punktu widzenia:)</p>
+<p align="justify"> Cześć nazywam się Magda. Obecnie pracuję poza branżą IT jako asystentka projektanta sieci gazowych wysokiego ciśnienia. Od dłuższego czasu myślę o przebranżowieniu się w kierunku testera (na początku manualnego, w planach automatyzującego), dlatego szukam różnych możliwości kształcenia się w tym kierunku i zdobywania doświadczenia. Wzięłam udział w spotkaniu "Junior QA - najbardziej pożądane umiejętności i rola w zespole developerskim", które prowadziła Patrycja. Dzięki temu spotkaniu dowiedziałam się o portfolio challenge. Bardzo spodobało mi się podejście Patrycji, więc stwierdziłam, że udział w nim będzie strzałem w dziesiątkę - poznanie testowania z praktycznego punktu widzenia:)</p>
 
-<p align="justify"> W testowaniu podoba mi się to, że jest to praca rozwojowa, wymagająca zaangażowania, ciągłego dokształcania się, czyli cały czas na przód + zdobywanie nowych celów, to jest to co mnie motywuje. </p>
+<p align="justify"> W testowaniu podoba mi się to, że jest to praca rozwojowa, wymagająca zaangażowania, ciągłego dokształcania się. Praca testera wymaga tego, żeby cały czas iść na przód i zdobywać nowe cele, a takie podejście jest dla mnie niezwykle motywujące. </p>
 
-<p align="justify"> Projekt spodobał mi się, właśnie ze względu na praktyczne zadania, dzięki czemu poznam od podszewki pracę testera + usystematyzuję wiedzę teoretyczną, którą do tej pory zdobyłam. </p>
+<p align="justify"> Projekt spodobał mi się, właśnie ze względu na praktyczne zadania, dzięki czemu poznam od podszewki pracę testera oraz usystematyzuję wiedzę teoretyczną, którą do tej pory zdobyłam. </p>
 
 <p align="justify"> Moim celem jest wykonanie terminowo wszystkich zadań, zdobycie doświadczenia, dzięki czemu będę mogła rozpocząć poszukiwania wymarzonej pracy :)
 Moje oczekiwania - to przede wszystkim feedback od mentorów, którzy wskażą mi co mogę poprawić / ulepszyć w mojej pracy. </p>
@@ -15,7 +15,7 @@ Moje oczekiwania - to przede wszystkim feedback od mentorów, którzy wskażą m
 </p>
 ## Subtask 4
 ### 4.1. Na czym polega ta aplikacja? Do czego służy?
-- Aplikacja Scouts Panel służy rejestrowaniu graczy, po zarejestrowaniu gracza jest możliwość dodania meczu / meczów oraz raportu / raportów dla konkretnego zawodnika tj. aplikacja zarządza graczami, meczami i pozwala na tworzenie raportów dla meczów. Możliwe jest przeprowadzenie meczu dla konkretnego zawodnika.
+<p align="justify"> 1. Aplikacja "Scouts Panel" zarządza graczami, meczami i pozwala na tworzenie raportów dla poszczególnych meczów. Pozwala na rejestrowanie graczy, po zarejestrowaniu gracza jest możliwość dodania meczu / meczów oraz raportu / raportów dla konkretnego zawodnika tj.Możliwe jest przeprowadzenie meczu dla konkretnego zawodnika.
 ### 4.2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
 - logowanie / wylogowywanie z systemu,
 - dodawanie nowego gracza (na stronie głównej w bloku "LINKI POMOCNICZE" zlokalizowany jest znacznik "DODAJ GRACZA", tylko z tego poziomu jest możliwość dodania gracza). Nie ma możliwości dodania gracza wybierając z menu głównego kategorię "GRACZE", z tego poziomu także powinna być możliwość dodania nowego gracza, intuicyjnie to jest pierwsze miejsce, w którym szukałabym możliwości dodania nowego gracza,
