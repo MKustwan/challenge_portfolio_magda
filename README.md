@@ -18,9 +18,13 @@ Moje oczekiwania - to przede wszystkim feedback od mentorów, którzy wskażą m
 
 ### 4.1. Na czym polega ta aplikacja? Do czego służy?
 <p align="justify"> 1. Aplikacja "Scouts Panel" zarządza graczami, meczami i pozwala na tworzenie raportów dla poszczególnych meczów,
+  
   2. Aplikacja pozwala na rejestrowanie graczy, po stworzeniu gracza jest możliwość jego edycji,
+  
   3. Aplikacja pozwalan na dodane meczu / meczów oraz raportu / raportów dla konkretnego zawodnika (po swtorzeniu meczu / raportu jest możliwość ich edycji),
+  
   4. Możliwe jest przeprowadzenie meczu dla konkretnego zawodnika (na podstawie któego generowany jest raport).
+  
 ### 4.2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
 - logowanie / wylogowywanie z systemu,
 - dodawanie nowego gracza (na stronie głównej w bloku "LINKI POMOCNICZE" zlokalizowany jest znacznik "DODAJ GRACZA", tylko z tego poziomu jest możliwość dodania gracza). Nie ma możliwości dodania gracza wybierając z menu głównego kategorię "GRACZE", z tego poziomu także powinna być możliwość dodania nowego gracza, intuicyjnie to jest pierwsze miejsce, w którym szukałabym możliwości dodania nowego gracza,
