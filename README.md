@@ -52,7 +52,6 @@ Interfejs aplikacji nie jest intuicyjny, "atrakcyjny", treści zamieszczone w ap
 <br>Aplikacja nie jest funkcjonalna, intuicyjna, jest trudna w użyciu co może spowodować brak chęci użytkowników z jej ponownego korzystania.
 <br>Nie jest zminimalizowany wysiłek poznawczy wręcz odwrotnie, żeby dojść do niektórych opcji dostępnych w aplikacji, trzba poświęcić bardzo dużo czasu. Interfejs dodatkowo w niektórych obszarach uniemożliwia podjęcie typowych, prostych działań.
 <br>Nie zastosowano zasady redukcji obciążenia poznawczego tj. zapoznanie się z interfejsem jest pracochłonne, wymagające i trudne. Działania, które musi podjąć użytkownik w ramach zapoznania się z aplikacją nie są w niektórych obszarach intuicyjne. Tak więc nauka interfejsu nie jest bezproblemowa, szybka czy przyjemna.
-
 <br>Wydaje mi się, że dla różnych grup odbiorców taka aplikacja nie będzie atrakcyjna tj. atrakcyjny interfejs graficzny aplikacji w obecnie panujących realiach jest niewzykle istotny, a aplikacja "Scouts Panel" nie "przyciąga wzroku" i dodatkowo jest "trudna w użyciu", więc zarówno grupa odbiorców młodszych jak i starszych nie będzie tej aplikacji postrzegać jako atrakcyjną.
 </p>
 
