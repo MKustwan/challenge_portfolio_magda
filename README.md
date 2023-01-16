@@ -19,7 +19,7 @@ Moje oczekiwania - to przede wszystkim feedback od mentorów, którzy wskażą m
 <br>3. Aplikacja pozwala na dodane meczu / meczów oraz raportu / raportów dla konkretnego zawodnika (po stworzeniu meczu / raportu jest możliwość ich edycji),
 <br>4. Aplikacja umożliwia przeprowadzenie meczu dla konkretnego zawodnika (na podstawie którego generowany jest raport),
 <br>5. Aplikacja umożliwia wyszukiwanie konkretnych zarejestrowanych graczy (wybierając z menu głównego kategorię "GRACZE" użytkownik ma możliwość wyszukania gracza po konkretnych parametrach poprzez kontrolkę wprowadzenia "SEARCH" lub filtrując tabelę po konkretnych parametrach).
-<br> Reasumując aplikacja "Scouts Panel" pozwala na zarządzanie graczami tj. przypisywanie do konretnych graczy meczy i raportów. Aplikacja pozwala użytkownikowi na wgląd do listy zarejestrowanych graczy, dzięki czemu użytkownik może uzyskać informację na temat gracza w zakresie m.in. pozycjigracza, klubu, w którym gra, ilości meczy rozegranych, ilości raportów przypisanych do danego gracza i recenzji gracza. Aplikacja może być przydatna dla "łowców talentów".
+<br> Reasumując aplikacja "Scouts Panel" pozwala na zarządzanie graczami tj. przypisywanie do konretnych graczy meczy i raportów. Aplikacja pozwala użytkownikowi na wgląd do listy zarejestrowanych graczy, dzięki czemu użytkownik może uzyskać informację na temat gracza w zakresie m.in. pozycji gracza, klubu, w którym gra, ilości rozegranych meczy, ilości raportów przypisanych do danego gracza i recenzji gracza. Aplikacja może być przydatna dla "łowców talentów".
 </p>
 
 ### 4.2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
