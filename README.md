@@ -24,7 +24,7 @@ Moje oczekiwania - to przede wszystkim feedback od mentorów, którzy wskażą m
 
 ### 4.2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
 <p align="justify">
-<br>1. Logowanie / wylogowywanie z systemu,
+1. Logowanie / wylogowywanie z systemu,
 <br>2. Dodawanie nowego gracza (na stronie głównej w bloku "LINKI POMOCNICZE" zlokalizowany jest znacznik "DODAJ GRACZA", tylko z tego poziomu jest możliwość dodania gracza). Nie ma możliwości dodania gracza wybierając z menu głównego kategorię "GRACZE", z tego poziomu także powinna być możliwość dodania nowego gracza, intuicyjnie to jest pierwsze miejsce, w którym szukałabym możliwości dodania nowego gracza,
 <br>3. Możliwość edycji zarejestrowanego gracza (wybierając z menu głównego kategorię "GRACZE", następnie wybierając konkretnego gracza, użytkownik zostaje przekierowany do strony z edycją konkretnego gracza),
 <br>4. Dla konkretnego zawodnika jest możliwość dodania meczu (z menu głównego wybieramy kategorię "GRACZE" => wybór konkretnego zawodnika => w menu głównym po lewej stronie pojawia się kategoria "MECZE", w którą należy kliknąć => pojawia się lista wszystkich meczy dla konkretnego zawodnika, a dodanie nowego jest możliwe poprzez kliknięcie w przycisk "+DODAJ MECZ", który znajduje się nad tabelą zestawiającą mecze dla konkretnego zawodnika), tutaj rozwiązanie dodania nowego meczu dla konkretnego zawodnika jest intuicyjne.
