@@ -47,7 +47,13 @@ Moje oczekiwania - to przede wszystkim feedback od mentorów, którzy wskażą m
 ### 4.3. Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 <p align="justify">
 Interfejs aplikacji nie jest intuicyjny, "atrakcyjny", treści zamieszczone w aplikacji i grafika są dosyć ubogie, nie przyciągają wzroku oraz nie zachęcają do ponownego skorzystania. 
-<br> W aplikacji praktycznie nie zastosowano obrazów, rysunków, widgetów więc jakość interakcji użytkownika z aplikacją nie będzie wysoka, co czyni ją trudno przyswajalną. Brak jest grafik, ikon, więc aplikacja przez to także traci na pozytywnym odbiorze użytkownika. Aplikacja nie jest funkcjonalna, intuicyjna, jest trudna w użyciu co może spowodować brak chęci użytkowników z jej ponownego korzystania. Wydaje mi się, że dla różnych grup odbiorców taka aplikacja nie będzie atrakcyjna tj. atrakcyjny interfejs graficzny aplikacji w obecnie panujących realiach jest niewzykle istotny, a aplikacja "Scouts Panel" nie "przyciąga wzroku" i dodatkowo jest "trudna w użyciu", więc zarówno grupa odbiorców młodszych jak i starszych nie będzie tej aplikacji postrzegać jako atrakcyjną.
+<br> W aplikacji praktycznie nie zastosowano obrazów, rysunków, widgetów więc jakość interakcji użytkownika z aplikacją nie będzie wysoka, co czyni ją trudno przyswajalną. 
+<br>Brak jest grafik, ikon, więc aplikacja przez to także traci na pozytywnym odbiorze użytkownika, a oceniając aplikację wizualnie nie jest ona atrakcyjna. 
+<br>Aplikacja nie jest funkcjonalna, intuicyjna, jest trudna w użyciu co może spowodować brak chęci użytkowników z jej ponownego korzystania.
+<br>Nie jest zminimalizowany wysiłek poznawczy wręcz odwrotnie, żeby dojść do niektórych opcji dostępnych w aplikacji, trzba poświęcić bardzo dużo czasu. Interfejs dodatkowo w niektórych obszarach uniemożliwia podjęcie typowych, prostych działań.
+<br>Nie zastosowano zasady redukcji obciążenia poznawczego tj. zapoznanie się z interfejsem jest pracochłonne, wymagające i trudne. Działania, które musi podjąć użytkownik w ramach zapoznania się z aplikacją nie są w niektórych obszarach intuicyjne. Tak więc nauka interfejsu nie jest bezproblemowa, szybka czy przyjemna.
+
+<br>Wydaje mi się, że dla różnych grup odbiorców taka aplikacja nie będzie atrakcyjna tj. atrakcyjny interfejs graficzny aplikacji w obecnie panujących realiach jest niewzykle istotny, a aplikacja "Scouts Panel" nie "przyciąga wzroku" i dodatkowo jest "trudna w użyciu", więc zarówno grupa odbiorców młodszych jak i starszych nie będzie tej aplikacji postrzegać jako atrakcyjną.
 </p>
 
 ### 4.4. Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
