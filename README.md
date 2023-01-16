@@ -2,7 +2,7 @@
 ## Subtask 1
 10/10
 ## Subtask 3
-Cześć nazywam się Magda. Obecnie pracuję poza branżą IT i od dłuższego czasu myślę o przebranżowieniu się w kierunku testera (na początku manualnego, w planach automatyzującego), dlatego szukam różnych możliwości kształcenia się w tym kierunku i zdobywania doświadczenia. Wzięłam udział w spotkaniu "Junior QA - najbardziej pożądane umiejętności i rola w zespole developerskim", które prowadziła Patrycja. Dzięki temu spotkaniu dowiedziałam się o challengu + bardzo spodobało mi się podejście Patrycji, więc stwierdziłam, że udział w nim będzie strzałem w dziesiątkę - poznanie testowania z praktycznego punktu widzenia:)
+|-Cześć nazywam się Magda. Obecnie pracuję poza branżą IT i od dłuższego czasu myślę o przebranżowieniu się w kierunku testera (na początku manualnego, w planach automatyzującego), dlatego szukam różnych możliwości kształcenia się w tym kierunku i zdobywania doświadczenia. Wzięłam udział w spotkaniu "Junior QA - najbardziej pożądane umiejętności i rola w zespole developerskim", które prowadziła Patrycja. Dzięki temu spotkaniu dowiedziałam się o challengu + bardzo spodobało mi się podejście Patrycji, więc stwierdziłam, że udział w nim będzie strzałem w dziesiątkę - poznanie testowania z praktycznego punktu widzenia:)-|
 
 W testowaniu podoba mi się to, że jest to praca rozwojowa, wymagająca zaangażowania, ciągłego dokształcania się, czyli cały czas na przód + zdobywanie nowych celów, to jest to co mnie motywuje.
 
@@ -41,13 +41,17 @@ W aplikacji praktycznie nie zastosowano obrazów, rysunków, widgetów więc jak
 Przy pierwszym zalogowaniu tak na prawdę nie wiemy jakie funkcjonalności są w aplikacji dostępne, musimy przeklikać wszystkie opcje, żeby dojść do tego jakie funkcjonalności są w aplikacji dostępne. Zatem aplikacja nie pozwala na szybkie i wygodne wykonanie akcji. Doświadczenia użytkownika w kontakcie z tą aplikacją nie są naturalne, intuicyjne i przebrnięcie przez całą apliakcję nie jest "przyjemne", tak więc zasada minimalnego wysiłku przy maksymalnym pożądanym efekcie nie została zachowana. Wysiłek poznawczy nie jest zminimalizowany, użytkownik musi włożyć dużo energii, żeby nauczyć się obsługi i użytkowania aplikacji. Zasada Redukcji Obciążenia Poznawczego nie została w przypadku tej aplikacji zachowana, gdyż korzystanie z interfejsu aplikacji "Scouts Panel"jest pracochłonne a dodatkowo jest trudne i intelektualnie wymagające.
 
 Elementy składowe interfejsu tj. kontrolki wprowadzania nie pozwalają na łatwy przebieg interakcji człowieka z oprogramowaniem np. w menu jest kategoria "GRACZE", po wejściu w tą zakładkę nie ma możliwości dodania nowego gracza co jest nieintuicyjne, także po najechaniu kursorem na istniejącego gracza ciężko stwierdzić czy można edytować jego dane (po najechaniu kursorem na danego gracza kursor nie zamienia się ze strzałki w łapkę). 
+
 Formularz dodawania nowego gracza możliwy jest tylko ze strony głównej i umieszczony jest w bloku "LINKI POMOCNICZE" - opis tego panelu jest nieintuicyjny, wydaje się, że opcja dodania nowego gracza jest jedną z ważniejszych funkcjonalności aplikacji, nawigacja po aplikacji nie jest zatem bezproblemowa (musimy poświęcić stosunkowo dużo czasu i energii, żeby opanować jakie funkcjonalności w aplikacji są dostępne).
+
 W formularzu "DODAJ GRACZA" praktycznie nie dodano list rozwijalnych, co znacznie utrudnia wypełnienie formularza, listy rozwijalne przydatne byłyby w przypadku pola "POZIOM ROZGRYWEK", "GŁÓWNA POZYCJA", "POZYCJA ALTERNATYWNA". 
 W formularzu "DODAJ GRACZA" znajdują się pola, w których nie wiadomo co wpisać np. ciężko stwierdzić co należałoby wpisać w polu "ŁĄCZY NAS PIŁKA", "90 MINUT", wypełnienie tego formularza jest nieintuicyjne.
 
 Przechodząc ścieżkę: wybór z menu głównego kategorii "GRACZE" => wybór konkretnego gracza => w menu głównym z lewej strony ekranu pojawia się kategoria "MECZE", w którą klikamy => pojawia się zestawienie wszystkich meczów dla konkretnego gracza i dla każdego meczu mamy możliwość rozpoczęcia meczu - w kolumnie "AKCJE", po kliknięciu w trzecią ikonę "ROZPOCZNIJ MECZ". 
 
 Po kliknięciu w ikonę "ROZPOCZNIJ MECZ" całkowicie nie wiadomo jakie akcje są możliwe do wykonania w aplikacji. Przydatna byłaby instrukcja obsługi aplikacji w tym zakresie, bo nie wiadomo jak obsłużyć tutaj działania. Mamy grafikę boiska oraz przyciski nad boiskiem - po najechaniu kursorem na przyciski, nie pojawia się żaden komunikat z opisem co będzie się działo po kliknięciu w konkretną ikonę, można się tylko domyślić i metodą prób i błędów sprawdzić co się stanie po kliknięciu / kliknięciach w konkretną ikonę, więc tak na prawdę w tym zakresie działamy na "oślep". 
+
+Interfejs aplikacji "Scouts panel" nie jest prosty w odbiorze, nie pozwala na szybkie i sprawne posługiwanie się produktem. Interfejs nie wspiera działąń użytkownika, nie zawsze informuje o błędach, nie tłumaczy co aktualnie użytkownik robi (zwłaszcza w zakresie opcji "ROZPOCZNIJ MECZ" dla konkretnego gracza).
 
 ### 4.5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
 Aplikacja uruchomiona na najbardziej popularnych przeglądarkach Google Chrome, Firefox, Opera, Edge, na wszystkich działa.
