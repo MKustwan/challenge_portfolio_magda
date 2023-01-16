@@ -7,17 +7,17 @@
 <br>Projekt spodobał mi się, właśnie ze względu na praktyczne zadania, dzięki czemu poznam od podszewki pracę testera oraz usystematyzuję wiedzę teoretyczną, którą do tej pory zdobyłam.
 <br>Moim celem jest wykonanie terminowo wszystkich zadań, zdobycie doświadczenia, dzięki czemu będę mogła rozpocząć poszukiwania wymarzonej pracy :)
 Moje oczekiwania - to przede wszystkim feedback od mentorów, którzy wskażą mi co mogę poprawić / ulepszyć w mojej pracy.
-<br>*Magda*
+<br>Magda
 </p>
 
 ## Subtask 4
 
 ### 4.1. Na czym polega ta aplikacja? Do czego służy?
 <p align="justify">
-<br> 1. Aplikacja "Scouts Panel" zarządza graczami, meczami i pozwala na tworzenie raportów dla poszczególnych meczów, 
-<br> 2. Aplikacja pozwala na rejestrowanie graczy, po stworzeniu gracza jest możliwość jego edycji, 
-<br> 3. Aplikacja pozwala na dodane meczu / meczów oraz raportu / raportów dla konkretnego zawodnika (po swtorzeniu meczu / raportu jest możliwość ich edycji),
-<br> 4. Możliwe jest przeprowadzenie meczu dla konkretnego zawodnika (na podstawie którego generowany jest raport).
+<br>1. Aplikacja "Scouts Panel" zarządza graczami, meczami i pozwala na tworzenie raportów dla poszczególnych meczów, 
+<br>2. Aplikacja pozwala na rejestrowanie graczy, po stworzeniu gracza jest możliwość jego edycji, 
+<br>3. Aplikacja pozwala na dodane meczu / meczów oraz raportu / raportów dla konkretnego zawodnika (po swtorzeniu meczu / raportu jest możliwość ich edycji),
+<br>4. Możliwe jest przeprowadzenie meczu dla konkretnego zawodnika (na podstawie którego generowany jest raport).
 </p>
 
 ### 4.2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
