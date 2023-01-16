@@ -11,7 +11,6 @@ Moje oczekiwania - to przede wszystkim feedback od mentorów, którzy wskażą m
 </p>
 
 ## Subtask 4
-
 ### 4.1. Na czym polega ta aplikacja? Do czego służy?
 <p align="justify">
 1. Aplikacja "Scouts Panel" zarządza graczami, meczami i pozwala na tworzenie raportów dla poszczególnych meczów, 
