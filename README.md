@@ -14,10 +14,12 @@ Moje oczekiwania - to przede wszystkim feedback od mentorów, którzy wskażą m
 
 ### 4.1. Na czym polega ta aplikacja? Do czego służy?
 <p align="justify">
-<br>1. Aplikacja "Scouts Panel" zarządza graczami, meczami i pozwala na tworzenie raportów dla poszczególnych meczów, 
+1. Aplikacja "Scouts Panel" zarządza graczami, meczami i pozwala na tworzenie raportów dla poszczególnych meczów, 
 <br>2. Aplikacja pozwala na rejestrowanie graczy, po stworzeniu gracza jest możliwość jego edycji, 
-<br>3. Aplikacja pozwala na dodane meczu / meczów oraz raportu / raportów dla konkretnego zawodnika (po swtorzeniu meczu / raportu jest możliwość ich edycji),
-<br>4. Możliwe jest przeprowadzenie meczu dla konkretnego zawodnika (na podstawie którego generowany jest raport).
+<br>3. Aplikacja pozwala na dodane meczu / meczów oraz raportu / raportów dla konkretnego zawodnika (po stworzeniu meczu / raportu jest możliwość ich edycji),
+<br>4. Aplikacja umożliwia przeprowadzenie meczu dla konkretnego zawodnika (na podstawie którego generowany jest raport),
+<br>5. Aplikacja umożliwia wyszukiwanie konkretnych zarejestrowanych graczy (wybierając z menu głównego kategorię "GRACZE" użytkownik ma możliwość wyszukania gracza po konkretnych parametrach poprzez kontrolkę wprowadzenia "SEARCH" lub filtrując tabelę po konkretnych parametrach).
+<br> Reasumując aplikacja "Scouts Panel" pozwala na zarządzanie graczami tj. przypisywanie do konretnych graczy meczy i raportów. Aplikacja pozwala użytkownikowi na wgląd do listy zarejestrowanych graczy, dzięki czemu użytkownik może uzyskać informację na temat gracza w zakresie m.in. pozycjigracza, klubu, w którym gra, ilości meczy rozegranych, ilości raportów przypisanych do danego gracza i recenzji gracza. Aplikacja może być przydatna dla "łowców talentów".
 </p>
 
 ### 4.2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
