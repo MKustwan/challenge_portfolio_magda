@@ -70,18 +70,20 @@ Przy pierwszym zalogowaniu tak na prawdę nie wiemy jakie funkcjonalności są w
 
 ### 4.5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
 <p align="justify">
-Aplikację "Scouts Panel" uruchomiłam na najbardziej popularnych przeglądarkach Google Chrome, Firefox, Opera, Edge, na wszystkich działała.
+Aplikację "Scouts Panel" uruchomiłam w przeglądarkach Google Chrome, Firefox, Opera, Edge, na wszystkich działała.
 <br>Aplikacja "Scouts Panel" uruchomiona w trybie responsywnym na urządzeniu mobilnym np. iPhone SE 375x667:
 <br>- ładuje się bardzo długo (wydajność na poziomie 43%), 
 <br>- po kliknięciu we wszystkie kategorie, nie wszystkie zakładki dostosowują się do wielkości ekranu np. kategoria "GRACZE" wyświetla się w na urządzeniu mobilnym w sposób czytelny tj. kolumny dla każdego zawodnika zostały rozłożone w pionie, więc użytkownik musi przewijać tylko w dół, żeby zobaczyć wszystkie informacje dla konkretnego gracza, co jest wygodne, natomiast kategorie "MECZE" i "RAPORTY" dla konkretnego gracza nie dostosowują się do wielkości ekranu. Żeby zobaczyć wszystkie informacje użytkownik musi nawigować się w prawo / lewo, co utrudnia działanie użytkownika, powinno zostać zastosowane takie samo rozwiązanie jak w przypadku kategorii "GRACZE" tj. rozmieszczenie wszystkich informacji w orientacji pionowej. 
 <br>- dodanie nowego raportu dla konkretnego gracza przechodząc ścieżkę: z menu głównego wybór kategorii "GRACZE" => wybór konkretnego gracza => w menu głównym pojawia się kategoria "MECZE" => dla konkretnego meczu przewijając w prawo do kolumny "AKCJE", mamy trzy ikony, nie wiemy co spowoduje kliknięcie danej ikony na urządzeniu mobilnym (ikony nie są w żaden sposób opisane, musimy kliknąć w każdą ikonę, żeby stwierdzić jakie akcje można wykonać poprzez kliknięcie w każdą z ikon), natomiast kliknięcie w drugą ikonę pozwala na wygenerowanie nowego raportu. Na urządzeniu mobilnym uzupełnienie raportu będzie trudne, ze względu na fakt, iż strona nie dostosowuje się do ekranu, użytkownik musi nawigować się na ekranie w prawo / lewo co utrudnia działanie użytkownika i łatwo będzie pominąć, któreś z pól.
-
-Lista wychwyconych błędów weryfikacja na przeglądarce Google Chrome:
-- strona główna, panel logowania - przy braku podania loginu i braku hasła oraz zaznaczonej opcji języka polskiego pojawia się komunikat walidacyjny w języku angielskim,
-- strona główna, przy logowaniu mamy dwa pola do wypełnienia Login i Hasło, komunikat walidacyjny w przypadku braku podania loginu lub błędnego podania loginu wyświetla się pod polem z hasłem, co jest nieczytelne / mylące, nie ma rozbicia na osobne komunikaty walidacyjne pod polem login i pod polem hasło;
-- w przypadku kliknięcia przycisku "Przypomnij hasło" przekierowanie na stronę, na której należy podać hasło e'mail, przy braku podania adresu e'mail i kliknięciu w przycisk "WYŚLIJ/SEND" pojawia się komunikat "Wysłano wiadomość na podany adres e'mail" (błąd 400), nie pojawia się komunikat walidacyjny,
-- w przypadku kliknięcia przycisk "Przypomnij hasło" przekierowanie na stronę, na której należy podać hasło e'mail, w przypadku kliknięcia przycisk "Przypomnij hasło" przy podaniu adresu e'mail w złym formacie i kliknięciu w przycisk "WYŚLIJ/SEND" pojawia się komunikat "Wysłano wiadomość na podany adres e'mail" (błąd 400), nie pojawia się komunikat walidacyjny,
-- strona "Przypomnij hasło" - jeżeli naciśnięty zostanie przycisk "WYŚLIJ/SEND" to zarówno przy poprawnym jak i niepoprawnym podaniu adresu e'mail przycisk się blokuje i nie ma możliwości ponownego wysłania adresu e'mail, trzeba się cofnąć do strony głównej ponownie kliknąć w przycisk "Przypomnij hasło", po czym następuję przekierowanie do strony z przypomnieniem hasła, wówczas przycisk "WYŚLIJ/SEND" jest aktywny,
+</p>
+<p align="justify">
+<br>Lista wychwyconych błędów:
+<br> I. Strona główna panel logowania
+<br>    1. Strona główna, panel logowania - przy braku podania loginu i braku hasła oraz zaznaczonej opcji języka polskiego pojawia się komunikat walidacyjny w języku angielskim,
+<br>    2. Strona główna, przy logowaniu mamy dwa pola do wypełnienia"LOGIN" i "HASŁO", komunikat walidacyjny w przypadku braku podania loginu lub błędnego podania loginu wyświetla się pod polem z hasłem, co jest nieczytelne / mylące, nie ma rozbicia na osobne komunikaty walidacyjne pod polem login i pod polem hasło,
+<br>    3. W przypadku kliknięcia przycisku "PRZYPOMNIJ HASŁO" przekierowanie na stronę, na której należy podać hasło e'mail, przy braku podania adresu e'mail i kliknięciu w przycisk "WYŚLIJ/SEND" pojawia się komunikat "Wysłano wiadomość na podany adres e'mail" (błąd 400), nie pojawia się komunikat walidacyjny,
+<br>    4. W przypadku kliknięcia przycisk "PRZYPOMNIJ HASŁO" przekierowanie na stronę, na której należy podać hasło e'mail, w przypadku kliknięcia przycisk "PRZYPOMNIJ HASŁO" przy podaniu adresu e'mail w złym formacie i kliknięciu w przycisk "WYŚLIJ/SEND" pojawia się komunikat "Wysłano wiadomość na podany adres e'mail" (błąd 400), nie pojawia się komunikat walidacyjny,
+<br>    5. Strona "PRZYPOMNIJ HASŁO" - jeżeli naciśnięty zostanie przycisk "WYŚLIJ/SEND" to zarówno przy poprawnym jak i niepoprawnym podaniu adresu e'mail przycisk się blokuje i nie ma możliwości ponownego wysłania adresu e'mail, trzeba się cofnąć do strony głównej ponownie kliknąć w przycisk "PRZYPOMNIJ HASŁO", po czym następuję przekierowanie do strony z przypomnieniem hasła, wówczas przycisk "WYŚLIJ/SEND" jest aktywny,
 
 - przycisk "DODAJ GRACZA" na stronie głównej przekierowuje do strony, na której można dodać nowego zawodnika:
 
