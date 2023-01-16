@@ -14,6 +14,7 @@ Moje oczekiwania - to przede wszystkim feedback od mentorów, którzy wskażą m
 *Magda*
 </p>
 ## Subtask 4
+
 ### 4.1. Na czym polega ta aplikacja? Do czego służy?
 <p align="justify"> 1. Aplikacja "Scouts Panel" zarządza graczami, meczami i pozwala na tworzenie raportów dla poszczególnych meczów. Pozwala na rejestrowanie graczy, po zarejestrowaniu gracza jest możliwość dodania meczu / meczów oraz raportu / raportów dla konkretnego zawodnika tj.Możliwe jest przeprowadzenie meczu dla konkretnego zawodnika.
 ### 4.2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
