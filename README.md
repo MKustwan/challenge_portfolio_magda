@@ -19,8 +19,9 @@ Moje oczekiwania - to przede wszystkim feedback od mentorów, którzy wskażą m
 <br>4. Aplikacja umożliwia przeprowadzenie meczu dla konkretnego zawodnika (na podstawie którego generowany jest raport),
 <br>5. Aplikacja umożliwia wyszukiwanie konkretnych zarejestrowanych graczy (wybierając z menu głównego kategorię "GRACZE" użytkownik ma możliwość wyszukania gracza po konkretnych parametrach poprzez kontrolkę wprowadzenia "SEARCH" lub filtrując tabelę po konkretnych parametrach).
 <br>6. Aplikacja pozwala na wgląd do ostatnio przeprowadzonych aktywności przez użytkowników w aplikacji tj. dodanie / aktualizacja gracza, dodanie / aktualizacja meczu, dodanie / aktualizacja raportu (na stronie głównej pojemnik "AKTYWNOSĆ").
-<br> Reasumując aplikacja "Scouts Panel" pozwala na zarządzanie graczami, meczami, raportami tj. tworzenie graczy, przypisywanie do konretnych graczy meczy i raportów. Aplikacja pozwala użytkownikowi na wgląd do listy zarejestrowanych graczy, dzięki czemu użytkownik może uzyskać informacje na temat gracza w zakresie m.in. pozycji gracza, klubu, w którym gra, ilości rozegranych meczy, ilości raportów przypisanych do danego gracza i recenzji gracza. Użytkownik ma także możliwośćw wglądu do konkretnych meczy i raportów przypisanych do danego gracza. Aplikacja może być przydatna dla "łowców talentów".
+<br> Reasumując aplikacja "Scouts Panel" pozwala na zarządzanie graczami, meczami, raportami tj. tworzenie graczy, przypisywanie do konretnych graczy meczy i raportów. Aplikacja pozwala użytkownikowi na wgląd do listy zarejestrowanych graczy, dzięki czemu użytkownik może uzyskać informacje na temat gracza w zakresie m.in. pozycji gracza, klubu, w którym gra, ilości rozegranych meczy, ilości raportów przypisanych do danego gracza i recenzji gracza. Użytkownik ma także możliwość wglądu do konkretnych meczy i raportów przypisanych do danego gracza. Aplikacja może być przydatna dla "łowców talentów".
 </p>
+
 ### 4.2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
 <p align="justify">
 <br>1. Logowanie / wylogowywanie z systemu,
