@@ -14,7 +14,7 @@ Moje oczekiwania - to przede wszystkim feedback od mentorów, którzy wskażą m
 *Magda*
 
 ## Subtask 4
-### Na czym polega ta aplikacja? Do czego służy?
+### 4.1. Na czym polega ta aplikacja? Do czego służy?
 - aplikacja Scouts Panel służy rejestrowaniu graczy, po zarejestrowaniu gracza jest możliwość dodania meczu / meczów oraz raportu / raportów dla konkretnego zawodnika tj. aplikacja zarządza graczami, meczami i pozwala na tworzenie raportów dla meczów. Możliwe jest przeprowadzenie meczu dla konkretnego zawodnika.
 ### Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
 - logowanie / wylogowywanie z systemu,
