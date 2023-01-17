@@ -151,6 +151,9 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 <br>    1. W oknie z edycją raportu, dla wszystkich punktów, które należy uzupełnić tj. "WSTĘP", "I. INTELIGENCJA BOISKOWA", "II. MENTALNOŚĆ", "III. PODSUMOWANIE", "IV. RECENZJA" można podjąć działania w zakresie stylizacji tekstu - są ikony, zlokalizowane pod opisami informacyjnymi dla każdego z punktów. Po najechaniu kursorem na poszczególne ikony opisy wyświetlają się w języku angielskim mimo zaznaczonej opcji języka polskiego. Block-quote nie działa. W polu "RECENZJA" mamy opis przyznawanych punktów - w opisie mamy punkty od 1 do 5 w zakresie liczb całkowitych, natomiast zaznaczając gwiazdki możemy dać połówki punktów, nie ma spójności między opisem przydzielanych punktów, a możliwością zaznaczania z ręki liczby punktów,
 <br>    2. W dolnej stopce zamieszczony jest link do strony www.futbolkolektyw.pl, po klinknięciu w link następuje przekierowanie do nieistniejącej strony "404 Not Found",
 <br>    3. Z lewej stronu formularza, w miejscu, w którym podane są dane dot. konkretnego meczu, podany jest link do meczu, kliknięcie w link powoduje do nieistniejącej strony "404 Not Found".
+<br> VII. Strona główna
+<br>    1. W przypadku pojawienia się na stronie głównej box-u "Niezapisany mecz" z linkiem "WRÓĆ DO RAPORTU", kliknięcie w link nie powoduje przekierowania do raportu (bug), natomiast kliknięcie prawym przyciskiem w link i wybranie opcji "Otwórz link w nowej karcie" powoduje otwarcie karty z meczem (opcja "ROZPOCZNIJ MECZ"), który zaczęliśmy, ale dla którego nie wygenerowaliśmy raportu, nie są to komunikaty jasne i oczywiste dla użytkownika.
+  
 </p>
 
 
