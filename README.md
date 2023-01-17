@@ -168,7 +168,7 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 <br>    2. W dolnej stopce zamieszczony jest link do strony www.futbolkolektyw.pl, po klinknięciu w link następuje przekierowanie do nieistniejącej strony "404 Not Found",
 <br>    3. Z lewej stronu formularza, w miejscu, w którym podane są dane dot. konkretnego meczu, podany jest link do meczu, kliknięcie w link powoduje do nieistniejącej strony "404 Not Found".
 </p>
-<h4><p align="justify">X. MENU GŁÓWNE => KATEGORIA GRACZE => WYBÓR KONKRETNEGO GRACZA => KATEGORIA RAPORTY Z MENU GŁÓWNEGO => +DODAJ RAPORT</p></h4> 
+<h4><p align="justify">X. MENU GŁÓWNE => KATEGORIA GRACZE => WYBÓR KONKRETNEGO GRACZA => KATEGORIA RAPORTY Z MENU GŁÓWNEGO => PRZYCISK +DODAJ RAPORT</p></h4> 
 <p align="justify">
 1. Po wciśnięciu przycisku "+DODAJ RAPORT" użytkownik zostaje przekierowany do zakładki MECZE, a nie do strony z rejestracją nowego raportu => błąd.
 <h4>XI. Strona główna</h4>
