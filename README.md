@@ -116,7 +116,7 @@ Aplikację "Scouts Panel" uruchomiłam w przeglądarkach Google Chrome, Firefox,
 </p>
 <h4>III. MENU GŁÓWNE => KATEGORIA GRACZE</h4>
 <p align="justify">
-1. Będąc na stronie z listą wszystkich graczy w górnym panelu jest opcja wyszukiwania danych, niestety nie jest wiadomo, po której kolumnie dane będą wyszukiwane, trzeba ręcznie wpisywać wartości, żeby sprawdzić po których kolumnach wartości są wyszukiwane. Wyszukiwanie nie działa dla kolumny WIEK, RECENZJA, MECZE, RAPORTY.
+1. Będąc na stronie z listą wszystkich graczy w górnym panelu jest opcja wyszukiwania danych poprzez wprowadzanie danych w kontrolce wprowadzania, niestety nie jest wiadomo, po której kolumnie dane będą wyszukiwane, trzeba ręcznie wpisywać wartości, żeby sprawdzić po których kolumnach wartości są wyszukiwane. Wyszukiwanie nie działa dla kolumny WIEK, RECENZJA, MECZE, RAPORTY.
 Mając zaznaczoną opcję języka polskiego napis przy lupce jest w języku angielskim "SEARCH" a powinno być "SZUKAJ",
 <br>    2. Mając zaznaczoną opcję języka polskiego opis ikon w prawym, górnym rogu okna po najechaniu na nie kursorem (ściągnięcie pliku csv, wydruk, widok, filtrowanie tabeli) jest w języku angielskim,
 <br>    3. Opcja filtrowania tabeli - wpisanie w dowolnym polu zadanej przez nas wartości, powoduje wyszukanie podanych wg naszych kryteriów rekordów. 
