@@ -43,7 +43,7 @@ Moje oczekiwania - to przede wszystkim feedback od mentorów, którzy wskażą m
 <br>12. Na stronie głównej w bloku "AKTYWNOSĆ" wyświetlają się ostatnio dokonane aktywności tj. stworzenie / aktualizacja gracza, stworzenie / aktualizacja meczu, stworzenie / aktualizaja raportu => klikając w konkretną aktywność użytkownik przekierowany zostaje do edycji gracza / meczu / raportu,
 <br>13. Aplikacja umożliwia wyszukiwanie konkretnych zarejestrowanych graczy (wybierając z menu głównego kategorię "GRACZE" użytkownik ma możliwość wyszukania gracza po konkretnych parametrach poprzez kontrolkę wprowadzenia "SEARCH"),
 <br>14. Możliwość wyboru języka, w którym aplikacja się wyświeli, do wyboru opcja języka polskiego bądź angielskiego,
-<vr>15. Na stronie głównej wyświetlają się także boxy z informacją o niezapisanych meczach, taki błąd niezapisania meczu jest łatwy do popełnienia ze względu na fakt, iż działania użytkownika w zakresie "ROZPOCZĘCIA MECZU" są na oślep, nie wiadomo jak akcję meczu przeprowadzić i użytkownik musi działać na oślep w tym zakresie.
+<br>15. Na stronie głównej wyświetlają się także boxy z informacją o niezapisanych meczach, taki błąd niezapisania meczu jest łatwy do popełnienia ze względu na fakt, iż działania użytkownika w zakresie "ROZPOCZĘCIA MECZU" są na oślep, nie wiadomo jak akcję meczu przeprowadzić i użytkownik musi działać na oślep w tym zakresie.
 </p>
   
 ### 4.3. Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
