@@ -82,7 +82,7 @@ Aplikację "Scouts Panel" uruchomiłam w przeglądarkach Google Chrome, Firefox,
 </p>
 #### Lista wychwyconych błędów:
 <p align="justify">
-<br> I. Strona główna panel logowania
+I. Strona główna panel logowania
 <br>    1. Strona główna, panel logowania - przy braku podania loginu i braku hasła oraz zaznaczonej opcji języka polskiego pojawia się komunikat walidacyjny w języku angielskim,
 <br>    2. Strona główna, przy logowaniu mamy dwa pola do wypełnienia "LOGIN" i "HASŁO", komunikat walidacyjny w przypadku braku podania loginu lub błędnego podania loginu wyświetla się pod polem z hasłem, co jest nieczytelne / mylące, nie ma rozbicia na osobne komunikaty walidacyjne pod polem login i pod polem hasło,
 <br>    3. W przypadku kliknięcia przycisku "PRZYPOMNIJ HASŁO" przekierowanie na stronę, na której należy podać hasło e'mail, przy braku podania adresu e'mail i kliknięciu w przycisk "WYŚLIJ/SEND" pojawia się komunikat "Wysłano wiadomość na podany adres e'mail" (błąd 400), nie pojawia się komunikat walidacyjny,
