@@ -57,7 +57,7 @@ Interfejs aplikacji nie jest intuicyjny, "atrakcyjny", treści zamieszczone w ap
 <br>Wydaje mi się, że dla różnych grup odbiorców taka aplikacja nie będzie atrakcyjna tj. atrakcyjny interfejs graficzny aplikacji w obecnie panujących realiach jest niewzykle istotny, a aplikacja "Scouts Panel" nie "przyciąga wzroku" i dodatkowo jest "trudna w użyciu", więc zarówno grupa odbiorców młodszych jak i starszych nie będzie tej aplikacji postrzegać jako atrakcyjnej.
 </p>
 
-### 4.4. Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
+### <p align="justify"> 4.4. Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu) </p>
 <p align="justify">
 Przy pierwszym zalogowaniu nie znając aplikacji i jej funkcjonalności, niestety aplikacja nie pozwala na szybkie i wygodne wykonanie akcji przez użytkownika. Doświadczenia użytkownika w kontakcie z tą aplikacją nie są naturalne, intuicyjne i przebrnięcie przez całą aplikację nie jest "przyjemne", tak więc zasada minimalnego wysiłku przy maksymalnym pożądanym efekcie nie została zachowana. 
 <br>Wysiłek poznawczy nie jest zminimalizowany, użytkownik musi włożyć dużo energii, żeby nauczyć się obsługi i użytkowania aplikacji. Zasada redukcji obciążenia poznawczego nie została w przypadku tej aplikacji zachowana, gdyż korzystanie z interfejsu aplikacji "Scouts Panel"jest pracochłonne a dodatkowo jest trudne i wymagające.
@@ -72,7 +72,7 @@ Przy pierwszym zalogowaniu nie znając aplikacji i jej funkcjonalności, niestet
 <br>Interfejs aplikacji "Scouts panel" nie jest prosty w odbiorze, nie pozwala na szybkie i sprawne posługiwanie się produktem. Interfejs nie wspiera działań użytkownika, nie zawsze informuje o błędach, nie tłumaczy co aktualnie użytkownik robi (zwłaszcza w zakresie opcji "ROZPOCZNIJ MECZ" dla konkretnego gracza).
  </p>
 
-### 4.5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
+### <p align="justify"> 4.5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;) </p>
 <p align="justify">
 Aplikację "Scouts Panel" uruchomiłam w przeglądarkach Google Chrome, Firefox, Opera, Edge, na wszystkich działała.
 <br>Aplikacja "Scouts Panel" uruchomiona w trybie responsywnym na urządzeniu mobilnym np. iPhone SE 375x667:
@@ -80,8 +80,8 @@ Aplikację "Scouts Panel" uruchomiłam w przeglądarkach Google Chrome, Firefox,
 <br>- po kliknięciu we wszystkie kategorie, nie wszystkie zakładki dostosowują się do wielkości ekranu np. kategoria "GRACZE" wyświetla się na urządzeniu mobilnym w sposób czytelny tj. kolumny dla każdego zawodnika zostały rozłożone w pionie, więc użytkownik musi przewijać tylko w dół, żeby zobaczyć wszystkie informacje dla konkretnego gracza, co jest wygodne, natomiast kategorie "MECZE" i "RAPORTY" dla konkretnego gracza nie dostosowują się do wielkości ekranu. Żeby zobaczyć wszystkie informacje użytkownik musi nawigować się w prawo / lewo, co utrudnia działanie użytkownika, powinno zostać zastosowane takie samo rozwiązanie jak w przypadku kategorii "GRACZE" tj. rozmieszczenie wszystkich informacji w orientacji pionowej. 
 <br>- dodanie nowego raportu dla konkretnego gracza przechodząc ścieżkę: z menu głównego wybór kategorii "GRACZE" => wybór konkretnego gracza => w menu głównym pojawia się kategoria "MECZE" => dla konkretnego meczu przewijając w prawo do kolumny "AKCJE", mamy trzy ikony, nie wiemy co spowoduje kliknięcie danej ikony na urządzeniu mobilnym (ikony nie są w żaden sposób opisane, musimy kliknąć w każdą ikonę, żeby stwierdzić jakie akcje można wykonać poprzez kliknięcie w każdą z ikon), natomiast kliknięcie w drugą ikonę pozwala na wygenerowanie nowego raportu. Na urządzeniu mobilnym uzupełnienie raportu będzie trudne, ze względu na fakt, iż strona nie dostosowuje się do ekranu, użytkownik musi nawigować się na ekranie w prawo / lewo co utrudnia działanie użytkownika i łatwo będzie pominąć, któreś z pól.
 </p>
+#### <br> Lista wychwyconych błędów:
 <p align="justify">
-<br>####Lista wychwyconych błędów:
 <br> I. Strona główna panel logowania
 <br>    1. Strona główna, panel logowania - przy braku podania loginu i braku hasła oraz zaznaczonej opcji języka polskiego pojawia się komunikat walidacyjny w języku angielskim,
 <br>    2. Strona główna, przy logowaniu mamy dwa pola do wypełnienia "LOGIN" i "HASŁO", komunikat walidacyjny w przypadku braku podania loginu lub błędnego podania loginu wyświetla się pod polem z hasłem, co jest nieczytelne / mylące, nie ma rozbicia na osobne komunikaty walidacyjne pod polem login i pod polem hasło,
@@ -154,7 +154,6 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 <br>    3. Z lewej stronu formularza, w miejscu, w którym podane są dane dot. konkretnego meczu, podany jest link do meczu, kliknięcie w link powoduje do nieistniejącej strony "404 Not Found".
 <br> VII. Strona główna
 <br>    1. W przypadku pojawienia się na stronie głównej box-u "Niezapisany mecz" z linkiem "WRÓĆ DO RAPORTU", kliknięcie w link nie powoduje przekierowania do raportu (bug), natomiast kliknięcie prawym przyciskiem w link i wybranie opcji "Otwórz link w nowej karcie" powoduje otwarcie karty z meczem (opcja "ROZPOCZNIJ MECZ"), który zaczęliśmy, ale dla którego nie wygenerowaliśmy raportu, nie są to komunikaty jasne i oczywiste dla użytkownika.
-  
 </p>
 
 
