@@ -173,7 +173,7 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 1. Po wciśnięciu przycisku "+DODAJ RAPORT" użytkownik zostaje przekierowany do zakładki MECZE, a nie do strony z rejestracją nowego raportu => błąd.
 <h4>XI. Strona główna</h4>
 <p align="justify">
-1. W przypadku pojawienia się na stronie głównej box-a "Niezapisany mecz" z linkiem "WRÓĆ DO RAPORTU", kliknięcie w link nie powoduje przekierowania do raportu (bug), natomiast kliknięcie prawym przyciskiem w link i wybranie opcji "Otwórz link w nowej karcie" powoduje otwarcie karty z meczem (opcja "ROZPOCZNIJ MECZ"), który zaczęliśmy, ale dla którego nie wygenerowaliśmy raportu, nie są to komunikaty jasne i oczywiste dla użytkownika, użytkownik nie m źródła informacji, z któego mógłby się dowiedzieć, że nie wygenerowanie raportu z rozpoczętego meczu spowoduje pojawienie się box-a "Niezapisany mecz" na stronie głównej.
+1. W przypadku pojawienia się na stronie głównej box-a "Niezapisany mecz" z linkiem "WRÓĆ DO RAPORTU", kliknięcie w link nie powoduje przekierowania do raportu (bug), natomiast kliknięcie prawym przyciskiem w link i wybranie opcji "Otwórz link w nowej karcie" powoduje otwarcie karty z meczem (opcja "ROZPOCZNIJ MECZ"), który zaczęliśmy, ale dla którego nie wygenerowaliśmy raportu, nie są to komunikaty jasne i oczywiste dla użytkownika, użytkownik nie ma źródła informacji, z którego mógłby się dowiedzieć, że nie wygenerowanie raportu z rozpoczętego meczu spowoduje pojawienie się box-a "Niezapisany mecz" na stronie głównej.
 </p>
 
 
