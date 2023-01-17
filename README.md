@@ -81,7 +81,7 @@ Aplikację "Scouts Panel" uruchomiłam w przeglądarkach Google Chrome, Firefox,
 <br>- dodanie nowego raportu dla konkretnego gracza przechodząc ścieżkę: z menu głównego wybór kategorii "GRACZE" => wybór konkretnego gracza => w menu głównym pojawia się kategoria "MECZE" => dla konkretnego meczu przewijając w prawo do kolumny "AKCJE", mamy trzy ikony, nie wiemy co spowoduje kliknięcie danej ikony na urządzeniu mobilnym (ikony nie są w żaden sposób opisane, musimy kliknąć w każdą ikonę, żeby stwierdzić jakie akcje można wykonać poprzez kliknięcie w każdą z ikon), natomiast kliknięcie w drugą ikonę pozwala na wygenerowanie nowego raportu. Na urządzeniu mobilnym uzupełnienie raportu będzie trudne, ze względu na fakt, iż strona nie dostosowuje się do ekranu, użytkownik musi nawigować się na ekranie w prawo / lewo co utrudnia działanie użytkownika i łatwo będzie pominąć, któreś z pól.
 </p>
 <h3>Lista błędów:</h3>
-<h4>I. Strona główna panel logowania</h4>
+<h4>I. Strona główna, panel logowania</h4>
 <p align="justify">
 1. Strona główna, panel logowania - przy braku podania loginu i braku hasła oraz zaznaczonej opcji języka polskiego pojawia się komunikat walidacyjny w języku angielskim,
 <br>    2. Strona główna, przy logowaniu mamy dwa pola do wypełnienia "LOGIN" i "HASŁO", komunikat walidacyjny w przypadku braku podania loginu lub błędnego podania loginu wyświetla się pod polem z hasłem, co jest nieczytelne / mylące, nie ma rozbicia na osobne komunikaty walidacyjne pod polem login i pod polem hasło,
