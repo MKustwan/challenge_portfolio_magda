@@ -168,9 +168,12 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 <br>    2. W dolnej stopce zamieszczony jest link do strony www.futbolkolektyw.pl, po klinknięciu w link następuje przekierowanie do nieistniejącej strony "404 Not Found",
 <br>    3. Z lewej stronu formularza, w miejscu, w którym podane są dane dot. konkretnego meczu, podany jest link do meczu, kliknięcie w link powoduje do nieistniejącej strony "404 Not Found".
 </p>
-<h4>X. Strona główna</h4>
+<h4><p align="justify">X. MENU GŁÓWNE => KATEGORIA GRACZE => WYBÓR KONKRETNEGO GRACZA => KATEGORIA RAPORTY Z MENU GŁÓWNEGO => +DODAJ RAPORT</p></h4> 
 <p align="justify">
-1. W przypadku pojawienia się na stronie głównej box-u "Niezapisany mecz" z linkiem "WRÓĆ DO RAPORTU", kliknięcie w link nie powoduje przekierowania do raportu (bug), natomiast kliknięcie prawym przyciskiem w link i wybranie opcji "Otwórz link w nowej karcie" powoduje otwarcie karty z meczem (opcja "ROZPOCZNIJ MECZ"), który zaczęliśmy, ale dla którego nie wygenerowaliśmy raportu, nie są to komunikaty jasne i oczywiste dla użytkownika.
+1. Po wciśnięciu przycisku "+DODAJ RAPORT" użytkownik zostaje przekierowany do zakładki MECZE, a nie do strony z rejestracją nowego raportu => błąd.
+<h4>XI. Strona główna</h4>
+<p align="justify">
+1. W przypadku pojawienia się na stronie głównej box-a "Niezapisany mecz" z linkiem "WRÓĆ DO RAPORTU", kliknięcie w link nie powoduje przekierowania do raportu (bug), natomiast kliknięcie prawym przyciskiem w link i wybranie opcji "Otwórz link w nowej karcie" powoduje otwarcie karty z meczem (opcja "ROZPOCZNIJ MECZ"), który zaczęliśmy, ale dla którego nie wygenerowaliśmy raportu, nie są to komunikaty jasne i oczywiste dla użytkownika, użytkownik nie m źródła informacji, z któego mógłby się dowiedzieć, że nie wygenerowanie raportu z rozpoczętego meczu spowoduje pojawienie się box-a "Niezapisany mecz" na stronie głównej.
 </p>
 
 
