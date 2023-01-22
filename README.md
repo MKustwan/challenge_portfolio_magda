@@ -31,7 +31,7 @@ I. [TASK 1](#TASK1)
 </p>
 
 ## Subtask 4b
-###<p align="justify"> 4.2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
+### <p align="justify"> 4.2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
 </p>
 <p align="justify">
 1. Logowanie / wylogowywanie z systemu,
