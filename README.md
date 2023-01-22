@@ -4,7 +4,8 @@ I. [TASK 1](#TASK1)
 <br>  2. [Subtask 3](#subtask-3)
 <br>  3. [Subtask 4a](#subtask-4a)
 <br>  4. [Subtask 4b](#subtask-4b)
-
+<br>  4. [Subtask 4c](#subtask-4c)
+<br>  4. [Subtask 4d](#subtask-4d)
 # TASK 1 
 ## Subtask 1 
 10/10
@@ -54,7 +55,8 @@ I. [TASK 1](#TASK1)
 <br>14. Możliwość wyboru języka, w którym aplikacja się wyświeli, do wyboru opcja języka polskiego bądź angielskiego,
 <br>15. Na stronie głównej wyświetlają się także boxy z informacją o niezapisanych meczach, taki błąd niezapisania meczu jest łatwy do popełnienia ze względu na fakt, iż działania użytkownika w zakresie "ROZPOCZĘCIA MECZU" są podejmowane na oślep, nie wiadomo jak akcję meczu przeprowadzić i użytkownik musi działać metodą prób i błędów w tym zakresie.
 </p>
-  
+
+## Subtask 4c  
 ### 4.3. Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 <p align="justify">
 Interfejs aplikacji nie jest intuicyjny, "atrakcyjny", treści zamieszczone w aplikacji i grafika są dosyć ubogie, nie przyciągają wzroku oraz nie zachęcają do ponownego skorzystania. 
@@ -65,6 +67,7 @@ Interfejs aplikacji nie jest intuicyjny, "atrakcyjny", treści zamieszczone w ap
 <br>Wydaje mi się, że dla różnych grup odbiorców taka aplikacja nie będzie atrakcyjna tj. atrakcyjny interfejs graficzny aplikacji w obecnie panujących realiach jest niezwykle istotny, a aplikacja "Scouts Panel" nie "przyciąga wzroku" i dodatkowo jest "trudna w użyciu", więc zarówno grupa odbiorców młodszych jak i starszych nie będzie tej aplikacji postrzegać jako atrakcyjnej.
 </p>
 
+## Subtask 4d
 ### <p align="justify"> 4.4. Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu) </p>
 <p align="justify">
 Przy pierwszym zalogowaniu nie znając aplikacji i jej funkcjonalności, niestety aplikacja nie pozwala na szybkie i wygodne wykonanie akcji przez użytkownika. Doświadczenia użytkownika w kontakcie z tą aplikacją nie są naturalne, intuicyjne i przebrnięcie przez całą aplikację nie jest "przyjemne", tak więc zasada minimalnego wysiłku przy maksymalnym pożądanym efekcie nie została zachowana. 
