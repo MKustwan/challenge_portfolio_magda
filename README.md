@@ -4,8 +4,13 @@ I. [TASK 1](#TASK1)
 <br>  2. [Subtask 3](#subtask-3)
 <br>  3. [Subtask 4a](#subtask-4a)
 <br>  4. [Subtask 4b](#subtask-4b)
-<br>  4. [Subtask 4c](#subtask-4c)
-<br>  4. [Subtask 4d](#subtask-4d)
+<br>  5. [Subtask 4c](#subtask-4c)
+<br>  6. [Subtask 4d](#subtask-4d)
+II. [TASK 2](#TASK2)
+<br>  1. [Subtask 1](#subtask-1)
+<br>  2. [Subtask 2](#subtask-2)
+<br>  3. [Subtask 3](#subtask-3)
+<br>  4. [Subtask 4](#subtask-4)
 # TASK 1 
 ## Subtask 1 
 10/10
@@ -197,5 +202,6 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 <p align="justify"> Stworzenie przypadków testowych pozwala na podejście do procesu testowego w sposób usystematyzowany. Dzięki przypadkom testowym tester nie działa na oślep. Mając zestawienie przypadków do wykonania tester w łatwy sposób może kontrolować postęp swojej pracy. Przypadki testowe pozwalają testerowi na priorytetyzację swoich działań tzn. skupienie się w pierwszej kolejności na najważniejszych funkcjonalnościach testowanego oprogramowania, a w przypadku kiedy tester dysponuje większą ilością czasu na testy, może testować funkcjonalności "mniej istotne". Zgodnie z zasadą, że testowanie gruntowne nie jest możliwe, przypadki testowe nie są w stanie wykryć wszystkich błędów występujących w aplikacji, ale dobrze zaprojektowane i spriorytetyzowane przypadki testowe pozwalają na wykrycie krytycznych błędów występujących w aplikacji.
 
 ## Subtask 4
+ 
 
 
