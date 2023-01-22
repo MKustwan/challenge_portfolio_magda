@@ -1,9 +1,9 @@
 # Table of Contents
 I. [TASK 1](#TASK1)
-<br>  1. [Subtask 1](#Subtask-1)
-<br>  3. [Subtask 3](#Subtask-3)
-<br>  4. [Subtask 4](#Subtask-4)
-<br>    4.1 [Na czym polega i do czego służy aplikacja](#Na-czym-polega-i-do-czego-służy-aplikacja)
+<br>  1. [Subtask 1](#subtask-1)
+<br>  3. [Subtask 3](#subtask-3)
+<br>  4. [Subtask 4](#subtask-4)
+<br>    4.1 [Na czym polega i do czego służy aplikacja](#na-czym-polega-i-do-czego-służy-aplikacja)
 # TASK 1 
 ## Subtask 1 
 10/10
