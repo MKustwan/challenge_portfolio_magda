@@ -3,7 +3,7 @@ I. [TASK 1](#TASK1)
 <br>  1. [Subtask 1](#subtask-1)
 <br>  3. [Subtask 3](#subtask-3)
 <br>  4. [Subtask 4](#subtask-4)
-<br>    4.1 [Na czym polega i do czego służy aplikacja](#na-czym-polega-i-do-czego-służy-aplikacja)
+<br>    4.1 [Na czym polega aplikacja](#na-czym-polega-aplikacja)
 # TASK 1 
 ## Subtask 1 
 10/10
@@ -17,7 +17,7 @@ I. [TASK 1](#TASK1)
 </p>
 
 ## Subtask 4
-### 4.1. Na czym polega i do czego służy aplikacja
+### 4.1. Na czym polega aplikacja
 <p align="justify">
 1. Aplikacja "Scouts Panel" zarządza graczami, meczami i pozwala na tworzenie raportów dla poszczególnych meczów, 
 <br>2. Aplikacja pozwala na rejestrowanie graczy, po stworzeniu gracza jest możliwość jego edycji, 
