@@ -1,6 +1,6 @@
 # Table of Contents
 I. [TASK 1](#TASK-1)
-<br>  1. [Subtask 1](#subtask-1)
+<br>  1. [Subtask 1-1](#subtask-1-1)
 <br>  2. [Subtask 3](#subtask-3)
 <br>  3. [Subtask 4a](#subtask-4a)
 <br>  4. [Subtask 4b](#subtask-4b)
@@ -12,9 +12,9 @@ I. [TASK 1](#TASK-1)
 <br>  3. [Subtask 3](#subtask-3)
 <br>  4. [Subtask 4](#subtask-4)
 # TASK 1 
-## Subtask 1
+## Subtask 1-1
 10/10
-## Subtask 3
+## Subtask 1-3
 <p align="justify"> Cześć nazywam się Magda. Obecnie pracuję poza branżą IT jako asystentka projektanta sieci gazowych wysokiego ciśnienia. Od dłuższego czasu myślę o przebranżowieniu się w kierunku testera (na początku manualnego, w planach automatyzującego), dlatego szukam różnych możliwości kształcenia się w tym kierunku i zdobywania doświadczenia. Wzięłam udział w spotkaniu "Junior QA - najbardziej pożądane umiejętności i rola w zespole developerskim", które prowadziła Patrycja. Dzięki temu spotkaniu dowiedziałam się o portfolio challenge. Bardzo spodobało mi się podejście Patrycji, więc stwierdziłam, że udział w nim będzie strzałem w dziesiątkę - poznanie testowania z praktycznego punktu widzenia🙂
 <br>W testowaniu podoba mi się to, że jest to praca rozwojowa, wymagająca zaangażowania, ciągłego dokształcania się. Praca testera wymaga tego, żeby cały czas iść na przód i zdobywać nowe cele, a takie podejście jest dla mnie niezwykle motywujące.
 <br>Projekt spodobał mi się, właśnie ze względu na praktyczne zadania, dzięki czemu poznam od podszewki pracę testera oraz usystematyzuję wiedzę teoretyczną, którą do tej pory zdobyłam.
