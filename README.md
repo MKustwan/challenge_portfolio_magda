@@ -1,8 +1,9 @@
 # Table of Contents
-1. [TASK 1](#TASK1)
-<br>  1.1 [Subtask 1](#Subtask1)
-<br>  1.2 [Subtask 3](#Subtask3)
-<br>  1.3 [Subtask 4](#Subtask4)
+I. [TASK 1](#TASK1)
+<br>  1. [Subtask 1](#Subtask1)
+<br>  3. [Subtask 3](#Subtask3)
+<br>  4. [Subtask 4](#Subtask4)
+<br>    4.1 [Na czym polega ta aplikacja? Do czego służy?](#Na czym polega ta aplikacja? Do czego służy?)
 # TASK 1 <a name="TASK1"></a>
 ## Subtask 1 <a name="Subtask1"></a>
 10/10
