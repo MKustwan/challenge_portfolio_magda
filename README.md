@@ -175,10 +175,15 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 <p align="justify">
 1. W przypadku pojawienia się na stronie głównej box-a "Niezapisany mecz" z linkiem "WRÓĆ DO RAPORTU", kliknięcie w link nie powoduje przekierowania do raportu (bug), natomiast kliknięcie prawym przyciskiem w link i wybranie opcji "Otwórz link w nowej karcie" powoduje otwarcie karty z meczem (opcja "ROZPOCZNIJ MECZ"), który zaczęliśmy, ale dla którego nie wygenerowaliśmy raportu, nie są to komunikaty jasne i oczywiste dla użytkownika, użytkownik nie ma źródła informacji, z którego mógłby się dowiedzieć, że nie wygenerowanie raportu z rozpoczętego meczu spowoduje pojawienie się box-a "Niezapisany mecz" na stronie głównej.
 </p>
+
 # TASK 2
+
 ## Subtask 1
+
 ## Subtask 2
+
 ## Subtask 3
+
 ## Subtask 4
 
 
