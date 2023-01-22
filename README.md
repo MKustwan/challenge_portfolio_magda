@@ -1,8 +1,8 @@
 # Table of Contents
-1. [TASK 1] (#TASK 1)
+1. [TASK 1](#TASK1)
 
 
-# TASK 1 <a name="TASK 1"></a>
+# TASK 1 <a name="TASK1"></a>
 ## Subtask 1
 10/10
 ## Subtask 3
