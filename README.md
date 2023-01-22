@@ -1,8 +1,9 @@
 # Table of Contents
 I. [TASK 1](#TASK1)
 <br>  1. [Subtask 1](#subtask-1)
-<br>  3. [Subtask 3](#subtask-3)
-<br>  4. [Subtask 4a](#subtask-4a)
+<br>  2. [Subtask 3](#subtask-3)
+<br>  3. [Subtask 4a](#subtask-4a)
+<br>  4. [Subtask 4b](#subtask-4b)
 
 # TASK 1 
 ## Subtask 1 
@@ -17,7 +18,7 @@ I. [TASK 1](#TASK1)
 </p>
 
 ## Subtask 4a 
-### Na czym polega aplikacja i do czego służy
+### Na czym polega aplikacja i do czego służy?
 <p align="justify">
 1. Aplikacja "Scouts Panel" zarządza graczami, meczami i pozwala na tworzenie raportów dla poszczególnych meczów, 
 <br>2. Aplikacja pozwala na rejestrowanie graczy, po stworzeniu gracza jest możliwość jego edycji, 
@@ -28,7 +29,7 @@ I. [TASK 1](#TASK1)
 <br>7. Na stronie głównej aplikacji wygenerowane są statystyki, więc użytkownik ma podgląd w zakresie liczby zarejestrowanych graczy, ilości meczy, ilości raportów czy ilości akcji (w zakresie ilości akcji nie wiadomo, czego ta informacja dotyczy).
 <br> Reasumując aplikacja "Scouts Panel" pozwala na zarządzanie graczami, meczami, raportami tj. tworzenie graczy, przypisywanie do konkretnych graczy meczy i raportów. Aplikacja pozwala użytkownikowi na wgląd do listy zarejestrowanych graczy, dzięki czemu użytkownik może uzyskać informacje na temat gracza w zakresie m.in. pozycji gracza, klubu, w którym gra, ilości rozegranych meczy, ilości raportów przypisanych do danego gracza i recenzji gracza. Użytkownik ma także możliwość wglądu do konkretnych meczy i raportów przypisanych do danego gracza. Aplikacja może być przydatna dla "łowców talentów".
 </p>
-
+## Subtask 4b
 ### <p align="justify"> 4.2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
 </p>
 <p align="justify">
