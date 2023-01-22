@@ -1,6 +1,6 @@
 # Table of Contents
 I. [TASK 1](#TASK-1)
-<br>  1. [Subtask 1](#subtask-1)
+<br>  1. [Subtask 1.1](#subtask-1.1)
 <br>  2. [Subtask 3](#subtask-3)
 <br>  3. [Subtask 4a](#subtask-4a)
 <br>  4. [Subtask 4b](#subtask-4b)
@@ -12,7 +12,7 @@ I. [TASK 1](#TASK-1)
 <br>  3. [Subtask 3](#subtask-3)
 <br>  4. [Subtask 4](#subtask-4)
 # TASK 1 
-## Subtask 1 
+## Subtask 1.1
 10/10
 ## Subtask 3
 <p align="justify"> Cześć nazywam się Magda. Obecnie pracuję poza branżą IT jako asystentka projektanta sieci gazowych wysokiego ciśnienia. Od dłuższego czasu myślę o przebranżowieniu się w kierunku testera (na początku manualnego, w planach automatyzującego), dlatego szukam różnych możliwości kształcenia się w tym kierunku i zdobywania doświadczenia. Wzięłam udział w spotkaniu "Junior QA - najbardziej pożądane umiejętności i rola w zespole developerskim", które prowadziła Patrycja. Dzięki temu spotkaniu dowiedziałam się o portfolio challenge. Bardzo spodobało mi się podejście Patrycji, więc stwierdziłam, że udział w nim będzie strzałem w dziesiątkę - poznanie testowania z praktycznego punktu widzenia🙂
@@ -194,14 +194,15 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 
 # TASK 2
 
-## Subtask 1
+## Subtask 2.1
 [Link Subtask 1](https://docs.google.com/spreadsheets/d/1f743nJbJRFVM-6Q-Gs4fvZtBPScJbfGY9Di4mZ2xE7E/edit#gid=0)
-## Subtask 2
+## Subtask 2.2
 [Link Subtask 2](https://docs.google.com/spreadsheets/d/1aTDpsfbxUiWod1yA2tgrxEHNAv--As5-ufsPlr7xjq8/edit#gid=0)
-## Subtask 3
+## Subtask 2.3
 <p align="justify"> Stworzenie przypadków testowych pozwala na podejście do procesu testowego w sposób usystematyzowany. Dzięki przypadkom testowym tester nie działa na oślep. Mając zestawienie przypadków do wykonania tester w łatwy sposób może kontrolować postęp swojej pracy. Przypadki testowe pozwalają testerowi na priorytetyzację swoich działań tzn. skupienie się w pierwszej kolejności na najważniejszych funkcjonalnościach testowanego oprogramowania, a w przypadku kiedy tester dysponuje większą ilością czasu na testy, może testować funkcjonalności "mniej istotne". Zgodnie z zasadą, że testowanie gruntowne nie jest możliwe, przypadki testowe nie są w stanie wykryć wszystkich błędów występujących w aplikacji, ale dobrze zaprojektowane i spriorytetyzowane przypadki testowe pozwalają na wykrycie krytycznych błędów występujących w aplikacji.
-
-## Subtask 4
+</p>
+## Subtask 2.4
+ 
  
 
 
