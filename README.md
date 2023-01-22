@@ -1,8 +1,8 @@
 # Table of Contents
 I. [TASK 1](#TASK1)
-<br>  1. [Subtask 1](#Subtask1)
-<br>  3. [Subtask 3](#Subtask3)
-<br>  4. [Subtask 4](#Subtask4)
+<br>  1. [Subtask 1](#Subtask-1)
+<br>  3. [Subtask 3](#Subtask-3)
+<br>  4. [Subtask 4](#Subtask-4)
 <br>    4.1 [Na czym polega ta aplikacja? Do czego służy?](#Na czym polega ta aplikacja? Do czego służy?)
 # TASK 1 
 ## Subtask 1 
