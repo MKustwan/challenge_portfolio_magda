@@ -8,10 +8,10 @@ I. [TASK 1](#TASK1)
 ## Subtask 1 <a name="Subtask1"></a>
 10/10
 ## Subtask 3 <a name="Subtask3"></a>
-<p align="justify"> Cześć nazywam się Magda. Obecnie pracuję poza branżą IT jako asystentka projektanta sieci gazowych wysokiego ciśnienia. Od dłuższego czasu myślę o przebranżowieniu się w kierunku testera (na początku manualnego, w planach automatyzującego), dlatego szukam różnych możliwości kształcenia się w tym kierunku i zdobywania doświadczenia. Wzięłam udział w spotkaniu "Junior QA - najbardziej pożądane umiejętności i rola w zespole developerskim", które prowadziła Patrycja. Dzięki temu spotkaniu dowiedziałam się o portfolio challenge. Bardzo spodobało mi się podejście Patrycji, więc stwierdziłam, że udział w nim będzie strzałem w dziesiątkę - poznanie testowania z praktycznego punktu widzenia :slightly_smiling_faces:
+<p align="justify"> Cześć nazywam się Magda. Obecnie pracuję poza branżą IT jako asystentka projektanta sieci gazowych wysokiego ciśnienia. Od dłuższego czasu myślę o przebranżowieniu się w kierunku testera (na początku manualnego, w planach automatyzującego), dlatego szukam różnych możliwości kształcenia się w tym kierunku i zdobywania doświadczenia. Wzięłam udział w spotkaniu "Junior QA - najbardziej pożądane umiejętności i rola w zespole developerskim", które prowadziła Patrycja. Dzięki temu spotkaniu dowiedziałam się o portfolio challenge. Bardzo spodobało mi się podejście Patrycji, więc stwierdziłam, że udział w nim będzie strzałem w dziesiątkę - poznanie testowania z praktycznego punktu widzenia🙂
 <br>W testowaniu podoba mi się to, że jest to praca rozwojowa, wymagająca zaangażowania, ciągłego dokształcania się. Praca testera wymaga tego, żeby cały czas iść na przód i zdobywać nowe cele, a takie podejście jest dla mnie niezwykle motywujące.
 <br>Projekt spodobał mi się, właśnie ze względu na praktyczne zadania, dzięki czemu poznam od podszewki pracę testera oraz usystematyzuję wiedzę teoretyczną, którą do tej pory zdobyłam.
-<br>Moim celem jest wykonanie terminowo wszystkich zadań, zdobycie doświadczenia, dzięki czemu będę mogła rozpocząć poszukiwania wymarzonej pracy :slightly_smiling_faces:
+<br>Moim celem jest wykonanie terminowo wszystkich zadań, zdobycie doświadczenia, dzięki czemu będę mogła rozpocząć poszukiwania wymarzonej pracy🙂
 <br>Moje oczekiwania - to przede wszystkim feedback od mentorów, którzy wskażą mi co mogę poprawić / ulepszyć w mojej pracy.
 <br>Magda
 </p>
