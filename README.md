@@ -1,7 +1,7 @@
 # Table of Contents
 1. [TASK 1](#TASK1)
-  1.1 [Subtask 1](#Subtask1)
-  1.2 [Subtask 3](#Subtask3)
+<br>  1.1 [Subtask 1](#Subtask1)
+<br>  1.2 [Subtask 3](#Subtask3)
 
 # TASK 1 <a name="TASK1"></a>
 ## Subtask 1 <a name="Subtask1"></a>
