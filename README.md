@@ -1,16 +1,16 @@
 # Table of Contents
 I. [TASK 1](#TASK-1)
 <br>  1. [Subtask 1-1](#subtask-1-1)
-<br>  2. [Subtask 3](#subtask-3)
-<br>  3. [Subtask 4a](#subtask-4a)
-<br>  4. [Subtask 4b](#subtask-4b)
-<br>  5. [Subtask 4c](#subtask-4c)
-<br>  6. [Subtask 4d](#subtask-4d)
+<br>  2. [Subtask 1-3](#subtask-1-3)
+<br>  3. [Subtask 1-4a](#subtask-1-4a)
+<br>  4. [Subtask 1-4b](#subtask-1-4b)
+<br>  5. [Subtask 1-4c](#subtask-1-4c)
+<br>  6. [Subtask 1-4d](#subtask-1-4d)
 <br>  II. [TASK 2](#TASK-2)
-<br>  1. [Subtask 1](#subtask-1)
-<br>  2. [Subtask 2](#subtask-2)
-<br>  3. [Subtask 3](#subtask-3)
-<br>  4. [Subtask 4](#subtask-4)
+<br>  1. [Subtask 2-1](#subtask-2-1)
+<br>  2. [Subtask 2-2](#subtask-2-2)
+<br>  3. [Subtask 2-3](#subtask-2-3)
+<br>  4. [Subtask 2-4](#subtask-2-4)
 # TASK 1 
 ## Subtask 1-1
 10/10
@@ -23,7 +23,7 @@ I. [TASK 1](#TASK-1)
 <br>Magda
 </p>
 
-## Subtask 4a 
+## Subtask 1-4a 
 ### Na czym polega aplikacja i do czego służy?
 <p align="justify">
 1. Aplikacja "Scouts Panel" zarządza graczami, meczami i pozwala na tworzenie raportów dla poszczególnych meczów, 
@@ -36,7 +36,7 @@ I. [TASK 1](#TASK-1)
 <br> Reasumując aplikacja "Scouts Panel" pozwala na zarządzanie graczami, meczami, raportami tj. tworzenie graczy, przypisywanie do konkretnych graczy meczy i raportów. Aplikacja pozwala użytkownikowi na wgląd do listy zarejestrowanych graczy, dzięki czemu użytkownik może uzyskać informacje na temat gracza w zakresie m.in. pozycji gracza, klubu, w którym gra, ilości rozegranych meczy, ilości raportów przypisanych do danego gracza i recenzji gracza. Użytkownik ma także możliwość wglądu do konkretnych meczy i raportów przypisanych do danego gracza. Aplikacja może być przydatna dla "łowców talentów".
 </p>
 
-## Subtask 4b
+## Subtask 1-4b
 ### <p align="justify"> 4.2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
 </p>
 <p align="justify">
@@ -61,7 +61,7 @@ I. [TASK 1](#TASK-1)
 <br>15. Na stronie głównej wyświetlają się także boxy z informacją o niezapisanych meczach, taki błąd niezapisania meczu jest łatwy do popełnienia ze względu na fakt, iż działania użytkownika w zakresie "ROZPOCZĘCIA MECZU" są podejmowane na oślep, nie wiadomo jak akcję meczu przeprowadzić i użytkownik musi działać metodą prób i błędów w tym zakresie.
 </p>
 
-## Subtask 4c  
+## Subtask 1-4c  
 ### 4.3. Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 <p align="justify">
 Interfejs aplikacji nie jest intuicyjny, "atrakcyjny", treści zamieszczone w aplikacji i grafika są dosyć ubogie, nie przyciągają wzroku oraz nie zachęcają do ponownego skorzystania. 
@@ -88,7 +88,7 @@ Przy pierwszym zalogowaniu nie znając aplikacji i jej funkcjonalności, niestet
 <br>Interfejs aplikacji "Scouts panel" nie jest prosty w odbiorze, nie pozwala na szybkie i sprawne posługiwanie się produktem. Interfejs nie wspiera działań użytkownika, nie zawsze informuje o błędach, nie tłumaczy co aktualnie użytkownik robi (zwłaszcza w zakresie opcji "ROZPOCZNIJ MECZ" dla konkretnego gracza).
  </p>
 
-### <p align="justify"> 4.5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;) </p>
+### <p align="justify"> 1-4.5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;) </p>
 <p align="justify">
 Aplikację "Scouts Panel" uruchomiłam w przeglądarkach Google Chrome, Firefox, Opera, Edge, na wszystkich działała.
 <br>Aplikacja "Scouts Panel" uruchomiona w trybie responsywnym na urządzeniu mobilnym np. iPhone SE 375x667:
