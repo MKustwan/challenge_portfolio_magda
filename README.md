@@ -3,7 +3,7 @@ I. [TASK 1](#TASK1)
 <br>  1. [Subtask 1](#subtask-1)
 <br>  3. [Subtask 3](#subtask-3)
 <br>  4. [Subtask 4](#subtask-4)
-<br>    4.1 [Na czym polega aplikacja](#na-czym-polega-aplikacja)
+<br>  [Na czym polega aplikacja](#na-czym-polega-aplikacja)
 # TASK 1 
 ## Subtask 1 
 10/10
