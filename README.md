@@ -1,8 +1,6 @@
 # Table of Contents
 1. [TASK 1](#TASK 1)
-2. [Subtask 1](##Subtask 1)
-3. [Subtask 3](##Subtask 3)
-3. [Subtask 4](##Subtask 4)
+
 
 # TASK 1 <a name="TASK 1"></a>
 ## Subtask 1
