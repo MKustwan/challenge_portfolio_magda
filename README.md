@@ -1,16 +1,17 @@
 # Table of Contents
 I. [TASK 1](#TASK-1)
-<br>  1. [Subtask 1-1](#subtask-1-1)
-<br>  2. [Subtask 1-3](#subtask-1-3)
-<br>  3. [Subtask 1-4a](#subtask-1-4a)
-<br>  4. [Subtask 1-4b](#subtask-1-4b)
-<br>  5. [Subtask 1-4c](#subtask-1-4c)
-<br>  6. [Subtask 1-4d](#subtask-1-4d)
+<br>  1.1 [Subtask 1-1](#subtask-1-1)
+<br>  1.2. [Subtask 1-3](#subtask-1-3)
+<br>  1.3. [Subtask 1-4a](#subtask-1-4a)
+<br>  1.4. [Subtask 1-4b](#subtask-1-4b)
+<br>  1.5. [Subtask 1-4c](#subtask-1-4c)
+<br>  1.6. [Subtask 1-4d](#subtask-1-4d)
+<br>  1.7. [Subtask 1-4e](#subtask-1-4e)
 <br>  II. [TASK 2](#TASK-2)
-<br>  1. [Subtask 2-1](#subtask-2-1)
-<br>  2. [Subtask 2-2](#subtask-2-2)
-<br>  3. [Subtask 2-3](#subtask-2-3)
-<br>  4. [Subtask 2-4](#subtask-2-4)
+<br>  2.1. [Subtask 2-1](#subtask-2-1)
+<br>  2.2. [Subtask 2-2](#subtask-2-2)
+<br>  2.3. [Subtask 2-3](#subtask-2-3)
+<br>  2.4. [Subtask 2-4](#subtask-2-4)
 # TASK 1 
 ## Subtask 1-1
 10/10
@@ -37,7 +38,7 @@ I. [TASK 1](#TASK-1)
 </p>
 
 ## Subtask 1-4b
-### <p align="justify"> 4.2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
+### <p align="justify"> Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
 </p>
 <p align="justify">
 1. Logowanie / wylogowywanie z systemu,
@@ -62,7 +63,7 @@ I. [TASK 1](#TASK-1)
 </p>
 
 ## Subtask 1-4c  
-### 4.3. Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
+### Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 <p align="justify">
 Interfejs aplikacji nie jest intuicyjny, "atrakcyjny", treści zamieszczone w aplikacji i grafika są dosyć ubogie, nie przyciągają wzroku oraz nie zachęcają do ponownego skorzystania. 
 <br>W aplikacji praktycznie nie zastosowano obrazów, rysunków, widgetów więc jakość interakcji użytkownika z aplikacją nie będzie wysoka, co czyni ją trudno przyswajalną i dodatkowo traci na pozytywnym odbiorze użytkownika. Moim zdaniem aplikację "Scouts Panel" nie jest wizualnie atrakcyjna. 
@@ -72,8 +73,8 @@ Interfejs aplikacji nie jest intuicyjny, "atrakcyjny", treści zamieszczone w ap
 <br>Wydaje mi się, że dla różnych grup odbiorców taka aplikacja nie będzie atrakcyjna tj. atrakcyjny interfejs graficzny aplikacji w obecnie panujących realiach jest niezwykle istotny, a aplikacja "Scouts Panel" nie "przyciąga wzroku" i dodatkowo jest "trudna w użyciu", więc zarówno grupa odbiorców młodszych jak i starszych nie będzie tej aplikacji postrzegać jako atrakcyjnej.
 </p>
 
-## Subtask 4d
-### <p align="justify"> 4.4. Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu) </p>
+## Subtask 1-4d
+### <p align="justify"> Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu) </p>
 <p align="justify">
 Przy pierwszym zalogowaniu nie znając aplikacji i jej funkcjonalności, niestety aplikacja nie pozwala na szybkie i wygodne wykonanie akcji przez użytkownika. Doświadczenia użytkownika w kontakcie z tą aplikacją nie są naturalne, intuicyjne i przebrnięcie przez całą aplikację nie jest "przyjemne", tak więc zasada minimalnego wysiłku przy maksymalnym pożądanym efekcie nie została zachowana. 
 <br>Wysiłek poznawczy nie jest zminimalizowany, użytkownik musi włożyć dużo energii, żeby nauczyć się obsługi i użytkowania aplikacji. Zasada redukcji obciążenia poznawczego nie została w przypadku tej aplikacji zachowana, gdyż korzystanie z interfejsu aplikacji "Scouts Panel" jest pracochłonne a dodatkowo jest trudne i wymagające.
@@ -88,7 +89,8 @@ Przy pierwszym zalogowaniu nie znając aplikacji i jej funkcjonalności, niestet
 <br>Interfejs aplikacji "Scouts panel" nie jest prosty w odbiorze, nie pozwala na szybkie i sprawne posługiwanie się produktem. Interfejs nie wspiera działań użytkownika, nie zawsze informuje o błędach, nie tłumaczy co aktualnie użytkownik robi (zwłaszcza w zakresie opcji "ROZPOCZNIJ MECZ" dla konkretnego gracza).
  </p>
 
-### <p align="justify"> 1-4.5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;) </p>
+## Subtask 1-4e
+### <p align="justify"> Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;) </p>
 <p align="justify">
 Aplikację "Scouts Panel" uruchomiłam w przeglądarkach Google Chrome, Firefox, Opera, Edge, na wszystkich działała.
 <br>Aplikacja "Scouts Panel" uruchomiona w trybie responsywnym na urządzeniu mobilnym np. iPhone SE 375x667:
@@ -194,14 +196,14 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 
 # TASK 2
 
-## Subtask 2.1
+## Subtask 2-1
 [Link Subtask 1](https://docs.google.com/spreadsheets/d/1f743nJbJRFVM-6Q-Gs4fvZtBPScJbfGY9Di4mZ2xE7E/edit#gid=0)
-## Subtask 2.2
+## Subtask 2-2
 [Link Subtask 2](https://docs.google.com/spreadsheets/d/1aTDpsfbxUiWod1yA2tgrxEHNAv--As5-ufsPlr7xjq8/edit#gid=0)
-## Subtask 2.3
+## Subtask 2-3
 <p align="justify"> Stworzenie przypadków testowych pozwala na podejście do procesu testowego w sposób usystematyzowany. Dzięki przypadkom testowym tester nie działa na oślep. Mając zestawienie przypadków do wykonania tester w łatwy sposób może kontrolować postęp swojej pracy. Przypadki testowe pozwalają testerowi na priorytetyzację swoich działań tzn. skupienie się w pierwszej kolejności na najważniejszych funkcjonalnościach testowanego oprogramowania, a w przypadku kiedy tester dysponuje większą ilością czasu na testy, może testować funkcjonalności "mniej istotne". Zgodnie z zasadą, że testowanie gruntowne nie jest możliwe, przypadki testowe nie są w stanie wykryć wszystkich błędów występujących w aplikacji, ale dobrze zaprojektowane i spriorytetyzowane przypadki testowe pozwalają na wykrycie krytycznych błędów występujących w aplikacji.
 </p>
-## Subtask 2.4
+## Subtask 2-4
  
  
 
