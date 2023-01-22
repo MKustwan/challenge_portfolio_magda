@@ -4,7 +4,7 @@
 3. [Subtask 3](##Subtask 3)
 3. [Subtask 4](##Subtask 4)
 
-# TASK 1
+# TASK 1 <a name="TASK 1"></a>
 ## Subtask 1
 10/10
 ## Subtask 3
