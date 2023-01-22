@@ -203,6 +203,7 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 ## Subtask 2-3
 <p align="justify"> Stworzenie przypadków testowych pozwala na podejście do procesu testowego w sposób usystematyzowany. Dzięki przypadkom testowym tester nie działa na oślep. Mając zestawienie przypadków do wykonania tester w łatwy sposób może kontrolować postęp swojej pracy. Przypadki testowe pozwalają testerowi na priorytetyzację swoich działań tzn. skupienie się w pierwszej kolejności na najważniejszych funkcjonalnościach testowanego oprogramowania, a w przypadku kiedy tester dysponuje większą ilością czasu na testy, może testować funkcjonalności "mniej istotne". Zgodnie z zasadą, że testowanie gruntowne nie jest możliwe, przypadki testowe nie są w stanie wykryć wszystkich błędów występujących w aplikacji, ale dobrze zaprojektowane i spriorytetyzowane przypadki testowe pozwalają na wykrycie krytycznych błędów występujących w aplikacji.
 </p>
+
 ## Subtask 2-4
  
  
