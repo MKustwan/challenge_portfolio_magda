@@ -4,10 +4,10 @@ I. [TASK 1](#TASK1)
 <br>  3. [Subtask 3](#Subtask3)
 <br>  4. [Subtask 4](#Subtask4)
 <br>    4.1 [Na czym polega ta aplikacja? Do czego służy?](#Na czym polega ta aplikacja? Do czego służy?)
-# TASK 1 <a name="TASK1"></a>
-## Subtask 1 <a name="Subtask1"></a>
+# TASK 1 
+## Subtask 1 
 10/10
-## Subtask 3 <a name="Subtask3"></a>
+## Subtask 3
 <p align="justify"> Cześć nazywam się Magda. Obecnie pracuję poza branżą IT jako asystentka projektanta sieci gazowych wysokiego ciśnienia. Od dłuższego czasu myślę o przebranżowieniu się w kierunku testera (na początku manualnego, w planach automatyzującego), dlatego szukam różnych możliwości kształcenia się w tym kierunku i zdobywania doświadczenia. Wzięłam udział w spotkaniu "Junior QA - najbardziej pożądane umiejętności i rola w zespole developerskim", które prowadziła Patrycja. Dzięki temu spotkaniu dowiedziałam się o portfolio challenge. Bardzo spodobało mi się podejście Patrycji, więc stwierdziłam, że udział w nim będzie strzałem w dziesiątkę - poznanie testowania z praktycznego punktu widzenia🙂
 <br>W testowaniu podoba mi się to, że jest to praca rozwojowa, wymagająca zaangażowania, ciągłego dokształcania się. Praca testera wymaga tego, żeby cały czas iść na przód i zdobywać nowe cele, a takie podejście jest dla mnie niezwykle motywujące.
 <br>Projekt spodobał mi się, właśnie ze względu na praktyczne zadania, dzięki czemu poznam od podszewki pracę testera oraz usystematyzuję wiedzę teoretyczną, którą do tej pory zdobyłam.
@@ -16,10 +16,8 @@ I. [TASK 1](#TASK1)
 <br>Magda
 </p>
 
-## Subtask 4 <a name="Subtask4"></a>
+## Subtask 4
 ### 4.1. Na czym polega ta aplikacja? Do czego służy?
-<details>
-<summary>
 <p align="justify">
 1. Aplikacja "Scouts Panel" zarządza graczami, meczami i pozwala na tworzenie raportów dla poszczególnych meczów, 
 <br>2. Aplikacja pozwala na rejestrowanie graczy, po stworzeniu gracza jest możliwość jego edycji, 
@@ -30,8 +28,6 @@ I. [TASK 1](#TASK1)
 <br>7. Na stronie głównej aplikacji wygenerowane są statystyki, więc użytkownik ma podgląd w zakresie liczby zarejestrowanych graczy, ilości meczy, ilości raportów czy ilości akcji (w zakresie ilości akcji nie wiadomo, czego ta informacja dotyczy).
 <br> Reasumując aplikacja "Scouts Panel" pozwala na zarządzanie graczami, meczami, raportami tj. tworzenie graczy, przypisywanie do konkretnych graczy meczy i raportów. Aplikacja pozwala użytkownikowi na wgląd do listy zarejestrowanych graczy, dzięki czemu użytkownik może uzyskać informacje na temat gracza w zakresie m.in. pozycji gracza, klubu, w którym gra, ilości rozegranych meczy, ilości raportów przypisanych do danego gracza i recenzji gracza. Użytkownik ma także możliwość wglądu do konkretnych meczy i raportów przypisanych do danego gracza. Aplikacja może być przydatna dla "łowców talentów".
 </p>
-</summary>
-</details>
 
 ### <p align="justify"> 4.2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
 </p>
