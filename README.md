@@ -12,6 +12,11 @@ I. [TASK 1](#TASK-1)
 <br>  2.2. [Subtask 2-2](#subtask-2-2)
 <br>  2.3. [Subtask 2-3](#subtask-2-3)
 <br>  2.4. [Subtask 2-4](#subtask-2-4)
+<br>  II. [TASK 3](#TASK-3)
+<br>  3.1. [Subtask 3-1](#subtask-3-1)
+<br>  3.2. [Subtask 3-2](#subtask-3-2)
+<br>  3.3. [Subtask 3-3](#subtask-3-3)
+<br>  3.4. [Subtask 3-4](#subtask-3-4)
 # TASK 1 
 ## Subtask 1-1
 10/10
@@ -210,4 +215,12 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 # TASK 3
 
 ## Subtask 3-1
+## Subtask 3-2
+[Link Subtask 1, Subtaks 2](https://docs.google.com/document/d/1gtXcMbP4IvgVwKEMl7KNeSZhK4EqXtWq-Teyad3258k/edit)
+
+## Subtask 3-3
+[Link Subtask 3](https://docs.google.com/document/d/1q6kp1qb3HyzGO6dV0wQPLDXBL0uMm8Hc4TcDkIq-LdI/edit)
+
+## Subtask 3-4
+[Link Subtask 4](https://docs.google.com/document/d/1EMviWXsw5gNjMoQ0EOenddn1YJe2aIu99inNrnfEXi4/edit)
 
