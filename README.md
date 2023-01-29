@@ -207,5 +207,7 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 ## Subtask 2-4
 [Link Subtask 4](https://docs.google.com/spreadsheets/d/1dsWG6yD_5FFyJ-oawPs9YfcOgNrBZsVyPuxbAwSVGRA/edit#gid=0)
  
+# TASK 3
 
+## Subtask 3-1
 
