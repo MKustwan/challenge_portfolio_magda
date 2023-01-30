@@ -223,4 +223,5 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 
 ## Subtask 3-4
 [Link Subtask 4](https://docs.google.com/document/d/1EMviWXsw5gNjMoQ0EOenddn1YJe2aIu99inNrnfEXi4/edit)
-
+<br> <p align="justify"> W sesji testów eksploracyjnych obrałam <strong>"Anti social tour"</strong>.
+</p>
