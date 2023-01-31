@@ -226,6 +226,6 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 <br> <p align="justify"> W sesji testów eksploracyjnych obrałam metodę <strong>"Anti social tour"</strong>.
 <br> Metoda <strong>"Anti social tour"</strong> testów eksploracyjnych pozwoliła mi na znalezienie w aplikacji błędów, które w przypadku testowania związanego tylko z wykonywaniem przypadków testowych byłyby trudne do wykrycia, gdyż znalazłam błędy dla nietypowych "scenariuszy". 
 <br> Skupienie się na konkretnym podejściu w zakresie testów eksploracyjnych pozwoliło mi ułożyć sobie plan działania w zakresie testowania metodą <strong>"Anti social tour"</strong>. 
-<br> Przyjęcie konkretnej metody przeprowadzenia testów eksploracyjnych pozwala na przyjęcie swoistego rodzaju założeń, dzięki czemu przeprowadzenie testów będzie łatwiejsze i da lepsze rezultaty.
+<br> Przyjęcie konkretnej metody przeprowadzenia testów eksploracyjnych pozwala na przyjęcie swoistego rodzaju założeń, dzięki czemu przeprowadzenie testów będzie łatwiejsze i pozwoli na osiągnięcie lepszych efektów.
 <br> Stosując wszystkie metody (rajdy) dla testów eksploracyjnych jesteśmy w stanie zapewnić dokładne i pełne testy eksploracyjne.
 </p>
