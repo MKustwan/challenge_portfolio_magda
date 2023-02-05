@@ -259,3 +259,4 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 <p align="justify"> Użycie aplikacji OLX jest proste, intuicyjne oraz nie generuje "problemów". 
 <br> Doświadczenie użytkownika w kontakcie z aplikacją jest przyjemne, łatwo jest się zorientować jakimi funkcjonalnościami aplikacja dysponuje.
  <br> Przejście procesu <strong>zakupu / sprzedaży produktu / usługi</strong> od początku do końca nie stwarza problemów.
+ https://marketbusinessnews.com/financial-glossary/user-friendly/
