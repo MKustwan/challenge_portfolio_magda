@@ -17,6 +17,11 @@ I. [TASK 1](#TASK-1)
 <br>  3.2. [Subtask 3-2](#subtask-3-2)
 <br>  3.3. [Subtask 3-3](#subtask-3-3)
 <br>  3.4. [Subtask 3-4](#subtask-3-4)
+<br>  IV. [TASK 4](#TASK-4)
+<br>  3.1. [Subtask 4-1](#subtask-4-1)
+<br>  3.2. [Subtask 4-2](#subtask-4-2)
+<br>  3.3. [Subtask 4-3](#subtask-4-3)
+<br>  3.4. [Subtask 4-4](#subtask-4-4)
 # TASK 1 
 ## Subtask 1-1
 10/10
@@ -238,4 +243,4 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 [Link 1 Subtask 1, Subtaks 2 - Bug Reports](https://docs.google.com/document/d/1fztrn_jhq8e8R7ts9O9r_n2RKX-jmP9NwJhYPPnfOUM/edit)
 <br> [Link 1 Subtask 1, Subtaks 2 - Attachments](https://drive.google.com/drive/folders/1SVZRa6-d23UBrf1ps7SIEeWh2KYp1isr)
 ## Subtask 4
-<br> <p align="justify"> Do czego służy ta aplikacja? Jaki jest cel tej aplikacji? </p>
+<p align="justify"> Do czego służy ta aplikacja? Jaki jest cel tej aplikacji? </p>
