@@ -210,7 +210,7 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 </p>
 
 ## Subtask 2-4
-[Link 1 Subtask 4](https://docs.google.com/spreadsheets/d/1dsWG6yD_5FFyJ-oawPs9YfcOgNrBZsVyPuxbAwSVGRA/edit#gid=0)
+[Link 1 Subtask 4 - Test Cases "Pick eat up" app](https://docs.google.com/spreadsheets/d/1dsWG6yD_5FFyJ-oawPs9YfcOgNrBZsVyPuxbAwSVGRA/edit#gid=0)
  
 # TASK 3
 
