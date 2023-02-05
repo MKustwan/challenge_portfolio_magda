@@ -274,3 +274,10 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 <br>Sposób pozycjonowania ogłoszeń w kategorii "PRACA" wprowadza pewien "nieporządek" w aplikacji. Dokonując filtracji w zależności od różnych kryteriów np. pensja rosnąco / malejąco wyświetlone wyniki nie szeregują się wg wysokości pensji od najwyższej do najniższej, gdyż ogłoszenia "WYRÓŻNIONE" / "DOPASOWANE" wplatają się pomiędzy prawidłowo wyfiltrowane wyniki, co może być niespodziewanym lub niezamierzonym rezultatem i może wprowadzić użytkownika korzystającego z aplikacji w błąd.</p>
 
 ### <p align="justify"> Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? </p>
+<p align="justify"><br> Aplikacje natywne są aplikacjami, które w pełni mogą korzystać z funkcjonalności i zasobów urządzenia, gdyż pisane są pod konkretną platformę. Takie rozwiązanie jest najbardziej wydajne i najoptymalniej gospodaruje zasobami urządzenia.
+<br> Aplikacje internetowe kompatybilne są z dowolną platformą.
+<br> W przypadku testowania aplikacji mobilnych ze względu na zwinną metodykę wytwarzania aplikacji najlepszą taktyką testowania jest testowanie eksploracyjne oraz redukcja ilości przypadków testowych. Znając potrzeby użytkownika oraz środowisko jego pracy tester jest w stanie lepiej zaprojektować przypadki testowe. 
+<br> Aplikacje mobilne trzeba testować również z uwzględnieniem zdarzeń wywołanych przez środowisko albo otoczenie aplikacji np.: przychodzące połączenie, niski stan naładowania baterii.
+<br> W przypadku aplikacji moblinych ważne jest dopilnowanie reguł użyteczności np. ilości treści, łatwości nawigacji. Trzeba zwrócić również uwagę na integrację aplikacji z innymi aplikacjami smartfonu np. usługa lokalizacji, wykonywanie połączeń.
+<br> Aplikacja musi byż zweryfikowana przy przejściu między punktami dostępowymi (z jednego wifi do drugiego, z wifi do sieci komórkowej, itp.).
+<br> Aplikacja musi być zoptymalizowana względem użycia zasobów, które zazwyczaj są mocno ograniczone. Aplikacje mobilne są "energożerne", wykorzystują procesor oraz łącze internetowe.
