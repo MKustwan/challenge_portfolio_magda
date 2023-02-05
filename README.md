@@ -246,7 +246,7 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 ### Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
 <img width="194" alt="image" src="https://user-images.githubusercontent.com/111000081/216811338-68a9d84e-1de7-460c-bc80-96815dc96d96.png">
 <p align="justify"> OLX jest serwisem ogłoszeniowym, na którym użytkownicy mogą zamieszczać ogłoszenia o sprzedaży w różnych kategoriach m.in. <strong> Motoryzacja, Nieruchomości, Praca, Elektronika, Moda, Noclegi </strong> i inne.
- <br> Użytkownicy aplikacji dzielą się na <strong> SPRZEDAJĄCYCH oraz KUPUJĄCYCH </strong>.
+ <br> Użytkownicy aplikacji dzielą się na <strong> SPRZEDAJĄCYCH </strong> oraz <strong> KUPUJĄCYCH </strong>.
  <br> Użytkownik <strong>SPRZEDAJĄCY</strong> wystawia produkty/usługi, które chce sprzedać.
  <br> Użytkownik <strong>KUPUJĄCY</strong> kupuje produkty/usługi, które może wyfiltrować po konkretnych parametrach filtracji dostępnych dla konkretnej usługi / produktu. 
  </p>
