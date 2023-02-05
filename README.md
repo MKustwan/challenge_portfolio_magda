@@ -269,7 +269,8 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 <br> Na dashbordzie aplikacji wyświetlają się oferty "Wybrane dla Ciebie" - oferty wyświetlają się w orientacji pionowej, użytkownik przewijając w dół widzi kolejne oferty wybrane dla niego. Przydatnym byłoby zastosowanie tutaj stronicowania tj. ograniczenia liczby wyświetlanych rekordów. W obecnym stanie użytkownik przewijając w dół nie ma możliwości określenia liczby ofert znajdujących się w panelu "Wybrane dla Ciebie".</p>
 <img width="511" alt="image" src="https://user-images.githubusercontent.com/111000081/216816597-5f76272f-3a5f-480c-8b9f-18228bc4613e.png">
 <br> W przypadku wyszukiwania ofert pracy po konkretnych kryteriach w wyświetlonych wynikach pojawiają się oferty "WYRÓŻNIONE", które nie spełniają kryteriów filtracji wskazanych przez użytkownika, co może to zdezorientować użytkownika np. dokonując filtracji w zależności od typu umowy, zaznaczając opcję "Umowa o pracę", wyświetlają się wyróżnione lub dopasowane oferty z innym typem umowy np. Umowa zlecenie / Inny typ umowy.
-![image](https://user-images.githubusercontent.com/111000081/216829657-819a7a68-d843-4cb9-87f3-5a9adf9f8a0f.png)
+<img width="634" alt="image" src="https://user-images.githubusercontent.com/111000081/216829836-e3bd43cb-7bdb-4d6f-95be-ab61ac17b3bf.png">
+
 ![image](https://user-images.githubusercontent.com/111000081/216829746-daff6d9f-18a0-4efa-9807-2000982da9d6.png)
 
 
