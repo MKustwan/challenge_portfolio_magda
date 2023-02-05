@@ -251,5 +251,5 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 <br> Użytkownik <strong>KUPUJĄCY</strong> kupuje produkty/usługi, które może wyfiltrować po konkretnych parametrach filtracji dostępnych dla konkretnej usługi / produktu. Aplikacja umożliwia także obserwowanie konkretnego ogłoszenia i wyszukiwania.
 <br> OLX pozwala na sprzedaż / kupno produktów / usług w różnorodnych kategoriach, spośród milionów ogłoszeń na terenie całej Polski.
 </p>
- ### Kto ma być użytkownikiem końcowym aplikacji?
+### Kto ma być użytkownikiem końcowym aplikacji?
 <p align="justify"> Użytkownikiem końcowym aplikacji jest osoba, która chce <strong> kupić / sprzedać</strong> konkretny <strong> produkt / usługę</strong>.
