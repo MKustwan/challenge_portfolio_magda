@@ -254,9 +254,11 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 </p>
 
 ### <p align="justify">Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)</p>
-<p align="justify"> Korzystanie z aplikacji OLX jest user friendly tzn. jest łatwa w użyciu oraz użytkownik jest w stanie szybko zorientować się jak jej używać.</p>
+<p align="justify"> Korzystanie z aplikacji OLX jest user friendly tzn. jest łatwa w użyciu oraz użytkownik jest w stanie szybko wdrożyć się w jej użytkowanie.</p>
 <img width="535" alt="image" src="https://user-images.githubusercontent.com/111000081/216814821-43e67647-292b-4cbe-b479-d7df1a433c9c.png">
 <p align="justify"> Użycie aplikacji OLX jest proste, intuicyjne oraz nie generuje "problemów". 
 <br> Doświadczenie użytkownika w kontakcie z aplikacją jest przyjemne, łatwo jest się zorientować jakimi funkcjonalnościami aplikacja dysponuje.
- <br> Przejście procesu <strong>zakupu / sprzedaży produktu / usługi</strong> od początku do końca nie stwarza problemów.
- https://marketbusinessnews.com/financial-glossary/user-friendly/
+<br> Przejście procesu <strong>zakupu / sprzedaży produktu / usługi</strong> od początku do końca nie stwarza problemów. Aplikacja skupia się na dobrych rozwiązaniach, które zaspokajają podstawowe potrzeby użytkowników.
+<br> Graficzna strona aplikacji tj. użyte czcionki i wielkości grafik są zoptymalizowane i pozwalają na przyjazne użytkowanie aplikacji.
+<br> Przestrzeń użyta w aplikacji jest zagospodarowana w sposób przemyślany, treści zamieszczone w aplikacji są przejrzyste i sprzyjają podejmowaniu działań przez użytkownika kończących się sukcesem.
+<br> Czas ładowania się aplikacji jest szybki, nie generuje "zniecierpliwienia" użytkownika.
