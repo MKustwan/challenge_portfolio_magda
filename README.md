@@ -276,7 +276,7 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 ### <p align="justify"> Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? </p>
 <strong> Aplikacje mobilne </strong>
 <p align="justify"> 
-<br> W przypadku testowania aplikacji mobilnych ze względu na zwinną metodykę wytwarzania aplikacji najlepszą taktyką testowania jest redukcja ilości przypadków testowych oraz testowanie eksploracyjne. Znając potrzeby użytkownika oraz środowisko jego pracy tester jest w stanie lepiej zaprojektować przypadki testowe. 
+W przypadku testowania aplikacji mobilnych ze względu na zwinną metodykę wytwarzania aplikacji najlepszą taktyką testowania jest redukcja ilości przypadków testowych oraz testowanie eksploracyjne. Znając potrzeby użytkownika oraz środowisko jego pracy tester jest w stanie lepiej zaprojektować przypadki testowe. 
 <br> Aplikacje mobilne trzeba testować z uwzględnieniem zdarzeń wywołanych przez środowisko albo otoczenie aplikacji np.: przychodzące połączenie, niski stan naładowania baterii oraz z uwzględnieniem specyfiki łączności bezprzewodowej (w tym obsługa utraty połączenia).
 <br> W przypadku aplikacji mobilnych ważne jest dopilnowanie reguł użyteczności np. ilości treści, łatwości nawigacji. Trzeba zwrócić uwagę na integrację aplikacji z innymi aplikacjami smartfonu np. usługa lokalizacji, wykonywanie połączeń.
 <br> Aplikacja musi byż zweryfikowana przy przejściu między punktami dostępowymi (z jednego wifi do drugiego, z wifi do sieci komórkowej, itp.).
