@@ -252,4 +252,4 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 <br> OLX pozwala na sprzedaż / kupno produktów / usług w różnorodnych kategoriach, spośród milionów ogłoszeń na terenie całej Polski.
 </p>
  ### Kto ma być użytkownikiem końcowym aplikacji?
-<p align="justify"> Użytkownikiem końcowym aplikacji jest osoba, która chce <strong> kupić / sprzedać konkretny <strong> produkt / usługę</strong>.
+<p align="justify"> Użytkownikiem końcowym aplikacji jest osoba, która chce <strong> kupić / sprzedać</strong> konkretny <strong> produkt / usługę</strong>.
