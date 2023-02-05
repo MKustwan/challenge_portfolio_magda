@@ -252,3 +252,4 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 <br> Użytkownik <strong>KUPUJĄCY</strong> kupuje produkty/usługi, które może wyfiltrować po konkretnych parametrach filtracji dostępnych dla konkretnej usługi / produktu. Aplikacja umożliwia także obserwowanie konkretnego ogłoszenia i wyszukiwania.
  <br> OLX pozwala na <strong>sprzedaż / kupno produktów / usług</strong> w różnorodnych kategoriach, spośród milionów ogłoszeń na terenie całej Polski.
 </p>
+### <p align="justify"> Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika) </p>
