@@ -290,3 +290,4 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 <br> Z racji tego, iż użytkownik ma bezpośredni dostęp do większości kodu z poziomu przeglądarki, wiele testów można przeprowadzić bez odwołania do interfejsu graficznego. Użytkownik może utrudniać pracę aplikacji poprzez modyfikację plików cookie, modyfikację parametrów zapytań w komunikacji za pomocą protokołu HTTP / HTTPS czy poprzez zablokowanie uruchomienia skryptów po stronie przeglądarki. 
 <br> Tester testując aplikację webową powinien uruchamiać aplikację w różnych przeglądarkach.
 </p>
+## Subtask 4-4
