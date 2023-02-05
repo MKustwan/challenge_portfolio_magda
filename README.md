@@ -249,5 +249,5 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
  <br> Użytkownicy aplikacji dzielą się na <strong> SPRZEDAJĄCYCH </strong> oraz <strong> KUPUJĄCYCH</strong>.
  <br> Użytkownik <strong>SPRZEDAJĄCY</strong> wystawia produkty/usługi, które chce sprzedać.
  <br> Użytkownik <strong>KUPUJĄCY</strong> kupuje produkty/usługi, które może wyfiltrować po konkretnych parametrach filtracji dostępnych dla konkretnej usługi / produktu. Aplikacja umożliwia także obserwowanie konkretnego ogłoszenia i wyszukiwania.
- <br> OLX pozwala na sprzedaż / kupno produktów / usług w różnorodnych kategoriach, spośród milionów ogłoszeń na terenie cąłej Polski.
+ <br> OLX pozwala na sprzedaż / kupno produktów / usług w różnorodnych kategoriach, spośród milionów ogłoszeń na terenie całej Polski.
  </p>
