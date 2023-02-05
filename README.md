@@ -236,5 +236,5 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 ## Subtask 4-1
 ## Subtask 4-2
 [Link 1 Subtask 1, Subtaks 2 - Bug Reports](https://docs.google.com/document/d/1fztrn_jhq8e8R7ts9O9r_n2RKX-jmP9NwJhYPPnfOUM/edit)
-[Link 1 Subtask 1, Subtaks 2 - Attachments](https://drive.google.com/drive/folders/1SVZRa6-d23UBrf1ps7SIEeWh2KYp1isr)
+<br> [Link 1 Subtask 1, Subtaks 2 - Attachments](https://drive.google.com/drive/folders/1SVZRa6-d23UBrf1ps7SIEeWh2KYp1isr)
 ## Subtask 4-3
