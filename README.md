@@ -245,4 +245,4 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 ## Subtask 4-3
 ### Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
 <img width="194" alt="image" src="https://user-images.githubusercontent.com/111000081/216811338-68a9d84e-1de7-460c-bc80-96815dc96d96.png">
-<p align="justify"> Aplikacja OLX jest serwisem ogłoszeniowym, na którym użytkownicy mogą zamieszczać ogłoszenia o sprzedaży w różnyc kategoriach m.in. Motoryzacja
+<p align="justify"> Aplikacja OLX jest serwisem ogłoszeniowym, na którym użytkownicy mogą zamieszczać ogłoszenia o sprzedaży w różnyc kategoriach m.in. <strong> Motoryzacja, Nieruchomości, Praca, Elektronika, Moda </strong> i inne.
