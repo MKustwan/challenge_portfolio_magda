@@ -254,3 +254,6 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 </p>
 
 ### <p align="justify">Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)</p>
+<br> Korzystanie z aplikacji OLX jest user friendly tzn. jest łatwa w użyciu oraz użytkownik jest w stanie szybko zorientować się jak jej używać.
+<img width="535" alt="image" src="https://user-images.githubusercontent.com/111000081/216814821-43e67647-292b-4cbe-b479-d7df1a433c9c.png">
+
