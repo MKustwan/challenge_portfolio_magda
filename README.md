@@ -270,9 +270,5 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 <img width="511" alt="image" src="https://user-images.githubusercontent.com/111000081/216816597-5f76272f-3a5f-480c-8b9f-18228bc4613e.png">
 <br> W przypadku wyszukiwania ofert pracy po konkretnych kryteriach w wyświetlonych wynikach pojawiają się oferty "WYRÓŻNIONE", które nie spełniają kryteriów filtracji wskazanych przez użytkownika, co może to zdezorientować użytkownika np. dokonując filtracji w zależności od typu umowy, zaznaczając opcję "Umowa o pracę", wyświetlają się wyróżnione lub dopasowane oferty z innym typem umowy np. Umowa zlecenie / Inny typ umowy.
 <img width="634" alt="image" src="https://user-images.githubusercontent.com/111000081/216829836-e3bd43cb-7bdb-4d6f-95be-ab61ac17b3bf.png">
-
-![image](https://user-images.githubusercontent.com/111000081/216829746-daff6d9f-18a0-4efa-9807-2000982da9d6.png)
-
-
-
+<br> <img width="519" alt="image" src="https://user-images.githubusercontent.com/111000081/216829876-2f0c4657-a986-4be4-ac57-7dab15871d76.png">
 ### <p align="justify"> Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? </p>
