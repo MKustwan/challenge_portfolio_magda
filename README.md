@@ -285,8 +285,8 @@ W przypadku testowania aplikacji mobilnych ze względu na zwinną metodykę wytw
 <br> Testy mobilne muszą uwzględniać zmianę orientacji wyświetlania treści aplikacji z pionowej na poziomą, mnogość platform, rozdzielczości, moc obliczeniową urządzeń mobilnych.
 </p>
 <strong> Aplikacje webowe </strong>
-<p align="justify"> Przy testowania aplikacji webowych ważne jest by uwzględnić specyfikę internetu, mnogość przeglądarek internetowych.</p>
-<p align="justify">W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą stosować zaawansowane skróty klawiaturowe. 
+<p align="justify">Przy testowania aplikacji webowych ważne jest by uwzględnić specyfikę internetu, mnogość przeglądarek internetowych.
+W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą stosować zaawansowane skróty klawiaturowe. 
 <br> Z racji tego, iż użytkownik ma bezpośredni dostęp do większości kodu z poziomu przeglądarki, wiele testów można przeprowadzić bez odwołania do interfejsu graficznego. Użytkownik może utrudniać pracę aplikacji poprzez modyfikację plików cookie, modyfikację parametrów zapytań w komunikacji za pomocą protokołu HTTP / HTTPS czy poprzez zablokowanie uruchomienia skryptów po stronie przeglądarki. 
 <br> Tester testując aplikację webową powinien uruchamiać aplikację w różnych przeglądarkach.
 </p>
