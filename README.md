@@ -219,11 +219,11 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 [Link 1 Subtask 1, Subtaks 2 - Bug Reports](https://docs.google.com/document/d/1gtXcMbP4IvgVwKEMl7KNeSZhK4EqXtWq-Teyad3258k/edit)
 <br> [Link 2 Subtask 1, Subtask 2 - Attachments](https://drive.google.com/drive/folders/10BkHWJDOZzVEY48z4-tYlQ9Qf-fEI6UK)
 ## Subtask 3-3
-[Link Subtask 3](https://docs.google.com/document/d/1q6kp1qb3HyzGO6dV0wQPLDXBL0uMm8Hc4TcDkIq-LdI/edit)
+[Link Subtask 3 - Summary Test Report](https://docs.google.com/document/d/1q6kp1qb3HyzGO6dV0wQPLDXBL0uMm8Hc4TcDkIq-LdI/edit)
 
 ## Subtask 3-4
-[Link 1 Subtask 4](https://docs.google.com/document/d/1EMviWXsw5gNjMoQ0EOenddn1YJe2aIu99inNrnfEXi4/edit)
-<br> [Link 2 Subtask 4](https://drive.google.com/drive/folders/10BkHWJDOZzVEY48z4-tYlQ9Qf-fEI6UK)
+[Link 1 Subtask 4 - Bug Reports](https://docs.google.com/document/d/1EMviWXsw5gNjMoQ0EOenddn1YJe2aIu99inNrnfEXi4/edit)
+<br> [Link 2 Subtask 4 - Attachments](https://drive.google.com/drive/folders/10BkHWJDOZzVEY48z4-tYlQ9Qf-fEI6UK)
 <br> <p align="justify"> W sesji testów eksploracyjnych obrałam metodę <strong>"Anti social tour"</strong>.
 <br> Metoda <strong>"Anti social tour"</strong> testów eksploracyjnych pozwoliła mi na znalezienie w aplikacji błędów, które w przypadku testowania związanego tylko z wykonywaniem przypadków testowych byłyby trudne do wykrycia, gdyż znalazłam błędy dla nietypowych "scenariuszy". 
 <br> Skupienie się na konkretnym podejściu w zakresie testów eksploracyjnych pozwoliło mi ułożyć sobie plan działania w zakresie testowania metodą <strong>"Anti social tour"</strong>. 
