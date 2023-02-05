@@ -261,4 +261,9 @@ Chcąc wrócić do pełnej listy graczy musimy w polu, w którym wprowadziliśmy
 <br> Przejście procesu <strong>zakupu / sprzedaży produktu / usługi</strong> od początku do końca nie stwarza problemów. Aplikacja skupia się na dobrych rozwiązaniach, które zaspokajają podstawowe potrzeby użytkowników.
 <br> Graficzna strona aplikacji tj. użyte czcionki i wielkości grafik są zoptymalizowane i pozwalają na przyjazne użytkowanie aplikacji.
 <br> Przestrzeń użyta w aplikacji jest zagospodarowana w sposób przemyślany, treści zamieszczone w aplikacji są przejrzyste i sprzyjają podejmowaniu działań przez użytkownika kończących się sukcesem.
-<br> Czas ładowania się aplikacji jest szybki, nie generuje "zniecierpliwienia" użytkownika.
+<br> Czas ładowania się aplikacji jest szybki, nie powoduje "zniecierpliwienia" użytkownika.
+</p>
+
+### <p align="justify"> Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D ) </p>
+
+### <p align="justify"> Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? </p>
