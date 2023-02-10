@@ -326,4 +326,11 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 <br> <strong> 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”</strong>
 <br> <img width="266" alt="image" src="https://user-images.githubusercontent.com/111000081/218167838-9fd8c489-57ca-4d43-bf3e-01ee5bedaf8c.png">
 <br> <img width="155" alt="image" src="https://user-images.githubusercontent.com/111000081/218167889-4814b9d1-07da-4230-ba49-32bf669350db.png">
+<br> <strong> 9. Wyświetl dane klienta, który nie ma podanego adresu email</strong>
+<br> <img width="263" alt="image" src="https://user-images.githubusercontent.com/111000081/218168228-53fd74dc-2493-49e5-ae5d-8390b93844fd.png">
+<br> <img width="211" alt="image" src="https://user-images.githubusercontent.com/111000081/218168271-c682f0b0-5b77-4647-be62-0b4e18d061db.png">
+<br> <strong> 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id</strong>
+<br> <img width="378" alt="image" src="https://user-images.githubusercontent.com/111000081/218168611-fc813d0c-a465-4fe1-8341-2a0e1072a887.png">
+<br> <img width="266" alt="image" src="https://user-images.githubusercontent.com/111000081/218168658-cc285084-5e5b-4826-b37b-65bf530b306a.png">
+
 
