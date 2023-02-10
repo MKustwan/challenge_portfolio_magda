@@ -306,4 +306,8 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 <br><strong> 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname </strong>
 <br><img width="262" alt="image" src="https://user-images.githubusercontent.com/111000081/218162041-b3f9510b-46ad-4dda-b13e-ebbce9a648ff.png">
 <br><img width="183" alt="image" src="https://user-images.githubusercontent.com/111000081/218162120-d0c45afd-6306-4afb-b442-c1d95f99ce9e.png">
+<br><strong> 2. Wyświetl film, który powstał w 2019 roku. </strong>
+<br> <img width="313" alt="image" src="https://user-images.githubusercontent.com/111000081/218162523-32c40ae8-a79b-4ff5-a308-d0065320c445.png">
+<br> <img width="238" alt="image" src="https://user-images.githubusercontent.com/111000081/218162591-3a6a34c9-58a6-4a0b-abfe-e6b4cfe2b212.png">
+
 
