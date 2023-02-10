@@ -300,6 +300,7 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 
 # TASK 5
 ## Subtask 5-1
+<br> WYPISAĆ CZEGO SIĘ NAUCZYŁAM!!!!!!!!
 ## Subtask 5-2
 ## Subtask 5-3
 <strong> 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname </strong>
