@@ -302,4 +302,5 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 
 ## Subtask 5-1
 ## Subtask 5-2
-## Subtask 5-2
+## Subtask 5-3
+<br><strong> 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname </strong>
