@@ -304,3 +304,6 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 ## Subtask 5-2
 ## Subtask 5-3
 <br><strong> 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname </strong>
+<img width="262" alt="image" src="https://user-images.githubusercontent.com/111000081/218162041-b3f9510b-46ad-4dda-b13e-ebbce9a648ff.png">
+<img width="183" alt="image" src="https://user-images.githubusercontent.com/111000081/218162120-d0c45afd-6306-4afb-b442-c1d95f99ce9e.png">
+
