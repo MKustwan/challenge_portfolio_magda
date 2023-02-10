@@ -303,25 +303,27 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 ## Subtask 5-2
 ## Subtask 5-3
 <strong> 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname </strong>
-<br><img width="262" alt="image" src="https://user-images.githubusercontent.com/111000081/218162041-b3f9510b-46ad-4dda-b13e-ebbce9a648ff.png">
-<br><img width="183" alt="image" src="https://user-images.githubusercontent.com/111000081/218162120-d0c45afd-6306-4afb-b442-c1d95f99ce9e.png">
-<br><strong> 2. Wyświetl film, który powstał w 2019 roku </strong>
+<br> <img width="262" alt="image" src="https://user-images.githubusercontent.com/111000081/218162041-b3f9510b-46ad-4dda-b13e-ebbce9a648ff.png">
+<br> <img width="183" alt="image" src="https://user-images.githubusercontent.com/111000081/218162120-d0c45afd-6306-4afb-b442-c1d95f99ce9e.png">
+<br> <strong> 2. Wyświetl film, który powstał w 2019 roku </strong>
 <br> <img width="313" alt="image" src="https://user-images.githubusercontent.com/111000081/218162523-32c40ae8-a79b-4ff5-a308-d0065320c445.png">
 <br> <img width="238" alt="image" src="https://user-images.githubusercontent.com/111000081/218162591-3a6a34c9-58a6-4a0b-abfe-e6b4cfe2b212.png">
-<br><strong> 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem </strong>
+<br> <strong> 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem </strong>
 <br> <img width="395" alt="image" src="https://user-images.githubusercontent.com/111000081/218162965-16229ff8-13b0-45f2-afce-728287b7797f.png">
 <br> <img width="367" alt="image" src="https://user-images.githubusercontent.com/111000081/218163007-518db5c6-920f-44f4-adcb-b2cbd4dfd7db.png">
-<br><strong> 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ </strong>
+<br> <strong> 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ </strong>
 <br> <img width="293" alt="image" src="https://user-images.githubusercontent.com/111000081/218163646-9197479a-4c16-4799-ac30-da5545dc20d4.png">
 <br> <img width="212" alt="image" src="https://user-images.githubusercontent.com/111000081/218163701-bcb6f92d-c3cc-4765-b6c5-78a27dec6ad6.png">
-<br><strong> 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN</strong>
+<br> <strong> 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN</strong>
 <br> <img width="350" alt="image" src="https://user-images.githubusercontent.com/111000081/218166391-770bc3b9-d46b-4e88-9985-a9b951d594a8.png">
 <br> <img width="170" alt="image" src="https://user-images.githubusercontent.com/111000081/218166424-aaae2cb4-4773-48e5-8310-532851ad3e28.png">
-<br><strong> 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny</strong>
-<br><img width="409" alt="image" src="https://user-images.githubusercontent.com/111000081/218166714-1c1d8237-e0a2-4a2b-9f4c-692ea8d4d766.png">
-<br><img width="150" alt="image" src="https://user-images.githubusercontent.com/111000081/218166752-c0ad15b3-81cb-4f89-809f-a891a0ca8a8b.png">
-<br><strong> 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN</strong>
+<br> <strong> 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny</strong>
+<br> img width="409" alt="image" src="https://user-images.githubusercontent.com/111000081/218166714-1c1d8237-e0a2-4a2b-9f4c-692ea8d4d766.png">
+<br> <img width="150" alt="image" src="https://user-images.githubusercontent.com/111000081/218166752-c0ad15b3-81cb-4f89-809f-a891a0ca8a8b.png">
+<br> <strong> 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN</strong>
 <br> <img width="289" alt="image" src="https://user-images.githubusercontent.com/111000081/218167205-df9b1f35-1f34-4313-b6a8-b0a5a4d392e8.png">
 <br> <img width="152" alt="image" src="https://user-images.githubusercontent.com/111000081/218167253-4cd58369-213e-4f22-997f-e19edc11afc4.png">
-
+<br> <strong> 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”</strong>
+<br> <img width="266" alt="image" src="https://user-images.githubusercontent.com/111000081/218167838-9fd8c489-57ca-4d43-bf3e-01ee5bedaf8c.png">
+<br> <img width="155" alt="image" src="https://user-images.githubusercontent.com/111000081/218167889-4814b9d1-07da-4230-ba49-32bf669350db.png">
 
