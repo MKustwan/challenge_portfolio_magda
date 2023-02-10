@@ -23,9 +23,9 @@ I. [TASK 1](#TASK-1)
 <br>  4.3. [Subtask 4-3](#subtask-4-3)
 <br>  4.4. [Subtask 4-4](#subtask-4-4)
 <br>  V. [TASK 5](#TASK-5)
-<br>  4.1. [Subtask 5-1](#subtask-5-1)
-<br>  4.2. [Subtask 5-2](#subtask-5-2)
-<br>  4.3. [Subtask 5-3](#subtask-5-3)
+<br>  5.1. [Subtask 5-1](#subtask-5-1)
+<br>  5.2. [Subtask 5-2](#subtask-5-2)
+<br>  5.3. [Subtask 5-3](#subtask-5-3)
 # TASK 1 
 ## Subtask 1-1
 10/10
