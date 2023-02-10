@@ -312,5 +312,9 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 <br><strong> 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem </strong>
 <br> <img width="395" alt="image" src="https://user-images.githubusercontent.com/111000081/218162965-16229ff8-13b0-45f2-afce-728287b7797f.png">
 <br> <img width="367" alt="image" src="https://user-images.githubusercontent.com/111000081/218163007-518db5c6-920f-44f4-adcb-b2cbd4dfd7db.png">
+<br><strong> 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ </strong>
+<br> <img width="293" alt="image" src="https://user-images.githubusercontent.com/111000081/218163646-9197479a-4c16-4799-ac30-da5545dc20d4.png">
+<br> <img width="212" alt="image" src="https://user-images.githubusercontent.com/111000081/218163701-bcb6f92d-c3cc-4765-b6c5-78a27dec6ad6.png">
+
 
 
