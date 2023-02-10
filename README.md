@@ -315,8 +315,11 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 <br><strong> 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ </strong>
 <br> <img width="293" alt="image" src="https://user-images.githubusercontent.com/111000081/218163646-9197479a-4c16-4799-ac30-da5545dc20d4.png">
 <br> <img width="212" alt="image" src="https://user-images.githubusercontent.com/111000081/218163701-bcb6f92d-c3cc-4765-b6c5-78a27dec6ad6.png">
-<br><strong> 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN. </strong>
+<br><strong> 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN</strong>
 <br> <img width="350" alt="image" src="https://user-images.githubusercontent.com/111000081/218166391-770bc3b9-d46b-4e88-9985-a9b951d594a8.png">
 <br> <img width="170" alt="image" src="https://user-images.githubusercontent.com/111000081/218166424-aaae2cb4-4773-48e5-8310-532851ad3e28.png">
+<br><strong> 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny</strong>
+<br><img width="409" alt="image" src="https://user-images.githubusercontent.com/111000081/218166714-1c1d8237-e0a2-4a2b-9f4c-692ea8d4d766.png">
+<br><img width="150" alt="image" src="https://user-images.githubusercontent.com/111000081/218166752-c0ad15b3-81cb-4f89-809f-a891a0ca8a8b.png">
 
 
