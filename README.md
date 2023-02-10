@@ -299,11 +299,10 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 [Link 1 Subtask 4 - Bug Reports SwipeTo app](https://magdatester.atlassian.net/jira/software/projects/CPP/boards/1)
 
 # TASK 5
-
 ## Subtask 5-1
 ## Subtask 5-2
 ## Subtask 5-3
-<br><strong> 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname </strong>
+<strong> 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname </strong>
 <br><img width="262" alt="image" src="https://user-images.githubusercontent.com/111000081/218162041-b3f9510b-46ad-4dda-b13e-ebbce9a648ff.png">
 <br><img width="183" alt="image" src="https://user-images.githubusercontent.com/111000081/218162120-d0c45afd-6306-4afb-b442-c1d95f99ce9e.png">
 <br><strong> 2. Wyświetl film, który powstał w 2019 roku </strong>
