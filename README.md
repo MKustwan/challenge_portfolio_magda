@@ -315,12 +315,13 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 <br> 11. Sortowanie ORDER BY,
 <br> 12. INSERT INTO,
 <br> 13. UPDATE,
-<br> 1. SELECT,
-<br> 1. SELECT,
-<br> 1. SELECT,
-<br> 1. SELECT,
-<br> 1. SELECT,
-<br> 1. SELECT,
+<br> 14. DELETE,
+<br> 15. GROUP BY,
+<br> 16. HAVING,
+<br> 17. INNER JOIN,
+<br> 18. LEFT JOIN,
+<br> 19. RIGHT JOIN,
+<br> 20. UNION.
 
 ## Subtask 5-2
 ## Subtask 5-3
