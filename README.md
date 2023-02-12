@@ -319,7 +319,7 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 <br> <img width="350" alt="image" src="https://user-images.githubusercontent.com/111000081/218166391-770bc3b9-d46b-4e88-9985-a9b951d594a8.png">
 <br> <img width="170" alt="image" src="https://user-images.githubusercontent.com/111000081/218166424-aaae2cb4-4773-48e5-8310-532851ad3e28.png">
 <br> <strong> 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny</strong>
-<br> img width="409" alt="image" src="https://user-images.githubusercontent.com/111000081/218166714-1c1d8237-e0a2-4a2b-9f4c-692ea8d4d766.png">
+<br> <img width="409" alt="image" src="https://user-images.githubusercontent.com/111000081/218166714-1c1d8237-e0a2-4a2b-9f4c-692ea8d4d766.png">
 <br> <img width="150" alt="image" src="https://user-images.githubusercontent.com/111000081/218166752-c0ad15b3-81cb-4f89-809f-a891a0ca8a8b.png">
 <br> <strong> 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN</strong>
 <br> <img width="289" alt="image" src="https://user-images.githubusercontent.com/111000081/218167205-df9b1f35-1f34-4313-b6a8-b0a5a4d392e8.png">
