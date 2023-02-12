@@ -301,7 +301,7 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 # TASK 5
 ## Subtask 5-1
 <img width="637" alt="image" src="https://user-images.githubusercontent.com/111000081/218334233-78c986f4-e82b-4e83-93d7-ea8a07a962d5.png">
-<br> Operatory / zapytania, które mam opanowane😀:
+<strong>Operatory / zapytania, które mam opanowane😀</strong>:
 <br> 1. SELECT,
 <br> 2. SELECT DISTINCT,
 <br> 3. Klauzula WHERE,
