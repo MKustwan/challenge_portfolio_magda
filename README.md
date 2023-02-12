@@ -324,7 +324,7 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 <br> 20. UNION.
 
 ## Subtask 5-2
-Pomyślna konfiguracja środowiska i wgranie bazy danych.
+*Pomyślna konfiguracja środowiska i wgranie bazy danych.
 ## Subtask 5-3
 <strong> 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname </strong>
 <br> <img width="262" alt="image" src="https://user-images.githubusercontent.com/111000081/218162041-b3f9510b-46ad-4dda-b13e-ebbce9a648ff.png">
