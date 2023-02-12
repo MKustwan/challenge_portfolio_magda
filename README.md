@@ -322,6 +322,7 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 <br> 18. LEFT JOIN,
 <br> 19. RIGHT JOIN,
 <br> 20. UNION.
+
 ## Subtask 5-2
 Pomyślna konfiguracja środowiska i wgranie bazy danych.
 ## Subtask 5-3
