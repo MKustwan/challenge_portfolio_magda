@@ -300,7 +300,28 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 
 # TASK 5
 ## Subtask 5-1
-<br> WYPISAĆ CZEGO SIĘ NAUCZYŁAM!!!!!!!!
+<img width="637" alt="image" src="https://user-images.githubusercontent.com/111000081/218334233-78c986f4-e82b-4e83-93d7-ea8a07a962d5.png">
+<br> Operatory / zapytania, które mam opanowane😀:
+<br> 1. SELECT,
+<br> 2. SELECT DISTINCT,
+<br> 3. Klauzula WHERE,
+<br> 4. Operatory AND, OR, NOT,
+<br> 5. Operator IS NULL,
+<br> 6. LIMIT,
+<br> 7. Funkcje MIN, MAX,
+<br> 8. Funkcje COUNT, AVG, SUM,
+<br> 9. LIKE i BEETWEN,
+<br> 10. Aliasy,
+<br> 11. Sortowanie ORDER BY,
+<br> 12. INSERT INTO,
+<br> 13. UPDATE,
+<br> 1. SELECT,
+<br> 1. SELECT,
+<br> 1. SELECT,
+<br> 1. SELECT,
+<br> 1. SELECT,
+<br> 1. SELECT,
+
 ## Subtask 5-2
 ## Subtask 5-3
 <strong> 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname </strong>
