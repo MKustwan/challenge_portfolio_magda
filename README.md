@@ -302,26 +302,26 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 ## Subtask 5-1
 <img width="637" alt="image" src="https://user-images.githubusercontent.com/111000081/218334233-78c986f4-e82b-4e83-93d7-ea8a07a962d5.png">
 <strong>Operatory / zapytania, które mam opanowane😀</strong>:
-<br> 1. SELECT,
-<br> 2. SELECT DISTINCT,
-<br> 3. Klauzula WHERE,
-<br> 4. Operatory AND, OR, NOT,
-<br> 5. Operator IS NULL,
-<br> 6. LIMIT,
-<br> 7. Funkcje MIN, MAX,
-<br> 8. Funkcje COUNT, AVG, SUM,
-<br> 9. LIKE i BEETWEN,
-<br> 10. Aliasy,
-<br> 11. Sortowanie ORDER BY,
-<br> 12. INSERT INTO,
-<br> 13. UPDATE,
-<br> 14. DELETE,
-<br> 15. GROUP BY,
-<br> 16. HAVING,
-<br> 17. INNER JOIN,
-<br> 18. LEFT JOIN,
-<br> 19. RIGHT JOIN,
-<br> 20. UNION.
+<br> 1. <strong>SELECT</strong>,
+<br> 2. <strong>SELECT DISTINCT</strong>,
+<br> 3. Klauzula <strong>WHERE</strong>,
+<br> 4. Operatory <strong>AND, OR, NOT</strong>,
+<br> 5. Operator <strong>IS NULL</<strong>,
+<br> 6. <strong>LIMIT</strong>,
+<br> 7. Funkcje <strong>MIN, MAX</strong>,
+<br> 8. Funkcje <strong>COUNT, AVG, SUM</strong>,
+<br> 9. <strong>LIKE</strong> i <strong>BEETWEN</strong>,
+<br> 10. <strong>Aliasy</strong>,
+<br> 11. Sortowanie <strong>ORDER BY</strong>,
+<br> 12. <strong>INSERT INTO</strong>,
+<br> 13. <strong>UPDATE</strong>,
+<br> 14. <strong>DELETE</strong>,
+<br> 15. <strong>GROUP BY</strong>,
+<br> 16. <strong>HAVING</strong>,
+<br> 17. <strong>INNER JOIN</strong>,
+<br> 18. <strong>LEFT JOIN</strong>,
+<br> 19. <strong>RIGHT JOIN</strong>,
+<br> 20. <strong>UNION</strong>.
 
 ## Subtask 5-2
 *Pomyślna konfiguracja środowiska i wgranie bazy danych.*
