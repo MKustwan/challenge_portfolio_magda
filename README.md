@@ -306,7 +306,7 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 <br> 2. <strong>SELECT DISTINCT</strong>,
 <br> 3. Klauzula <strong>WHERE</strong>,
 <br> 4. Operatory <strong>AND, OR, NOT</strong>,
-<br> 5. Operator <strong>IS NULL</<strong>,
+<br> 5. Operator <strong>IS NULL</strong>,
 <br> 6. <strong>LIMIT</strong>,
 <br> 7. Funkcje <strong>MIN, MAX</strong>,
 <br> 8. Funkcje <strong>COUNT, AVG, SUM</strong>,
