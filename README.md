@@ -370,7 +370,7 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 <img width="755" alt="image" src="https://user-images.githubusercontent.com/111000081/219443979-edc96604-995d-4285-badd-8924168400e4.png">
 <img width="120" alt="image" src="https://user-images.githubusercontent.com/111000081/219444049-818abca9-c78a-4629-b045-893a80929b48.png">
 <strong>13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com</strong>
-<br><img width="179" alt="image" src="https://user-images.githubusercontent.com/111000081/219445927-280b2896-3fff-4acd-bc0a-a3fb5c3c928f.png">
-<br><img width="256" alt="image" src="https://user-images.githubusercontent.com/111000081/219446025-d33c9137-d028-4d94-b54a-1d58aa532838.png">
+<img width="179" alt="image" src="https://user-images.githubusercontent.com/111000081/219445927-280b2896-3fff-4acd-bc0a-a3fb5c3c928f.png">
+<img width="256" alt="image" src="https://user-images.githubusercontent.com/111000081/219446025-d33c9137-d028-4d94-b54a-1d58aa532838.png">
 <strong><p align="justify">14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia)</strong></p>
 
