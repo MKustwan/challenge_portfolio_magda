@@ -26,6 +26,10 @@ I. [TASK 1](#TASK-1)
 <br>  5.1. [Subtask 5-1](#subtask-5-1)
 <br>  5.2. [Subtask 5-2](#subtask-5-2)
 <br>  5.3. [Subtask 5-3](#subtask-5-3)
+<br>  VI. [TASK 6](#TASK-6)
+<br>  6.1. [Subtask 6-1](#subtask-6-1)
+<br>  6.2. [Subtask 6-2](#subtask-6-2)
+<br>  6.3. [Subtask 6-3](#subtask-6-3)
 # TASK 1 
 ## Subtask 1-1
 10/10
@@ -357,4 +361,9 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 <br> <img width="378" alt="image" src="https://user-images.githubusercontent.com/111000081/218168611-fc813d0c-a465-4fe1-8341-2a0e1072a887.png">
 <br> <img width="266" alt="image" src="https://user-images.githubusercontent.com/111000081/218168658-cc285084-5e5b-4826-b37b-65bf530b306a.png">
 
-
+# TASK 6
+## Subtask 6-1
+<strong> 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd </strong>
+<br> <img width="167" alt="image" src="https://user-images.githubusercontent.com/111000081/219441540-eb2ac5d4-79ef-4777-b9e9-76c357bb2463.png">
+<br> <img width="256" alt="image" src="https://user-images.githubusercontent.com/111000081/219441687-f9426ded-0a6e-4345-9078-9d9a4d5d3c39.png">
+<strong><p align="justify">12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej. </strong></p>
