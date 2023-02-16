@@ -375,4 +375,4 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 <strong><p align="justify">14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia)</strong></p>
 <img width="759" alt="image" src="https://user-images.githubusercontent.com/111000081/219447039-237dc219-2b56-4968-9a11-56307b675e25.png">
 <img width="275" alt="image" src="https://user-images.githubusercontent.com/111000081/219447111-281f4a53-1950-4d4d-baef-5d0ac6586640.png">
-
+<strong><p align="justify">15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag</strong></p>
