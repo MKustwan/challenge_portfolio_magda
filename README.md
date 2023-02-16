@@ -369,5 +369,6 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 <strong><p align="justify">12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej. </strong></p>
 <img width="755" alt="image" src="https://user-images.githubusercontent.com/111000081/219443979-edc96604-995d-4285-badd-8924168400e4.png">
 <img width="120" alt="image" src="https://user-images.githubusercontent.com/111000081/219444049-818abca9-c78a-4629-b045-893a80929b48.png">
-
+<strong>13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com</strong>
+<br>
 
