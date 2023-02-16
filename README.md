@@ -383,5 +383,7 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 <strong>16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały</strong>
 <img width="517" alt="image" src="https://user-images.githubusercontent.com/111000081/219481246-6f1d7377-decb-46ac-82c4-ebc246c40d79.png">
 <img width="172" alt="image" src="https://user-images.githubusercontent.com/111000081/219481317-7f2e5bb8-75b1-489f-b848-6d0e89bc4fee.png">
-
-
+<strong>17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)</strong>
+<strong><p align="justify">18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie)</p></strong>
+<strong>19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał</strong>
+<strong>20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa</strong>
