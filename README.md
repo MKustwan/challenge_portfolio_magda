@@ -380,4 +380,4 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 <img width="326" alt="image" src="https://user-images.githubusercontent.com/111000081/219462969-27c6a7dc-4d98-4418-92c8-2c6f28a382e1.png">
 <img width="464" alt="image" src="https://user-images.githubusercontent.com/111000081/219480312-2b0cf2c1-87dd-4ed6-9bb8-909fb390da17.png">
 <img width="323" alt="image" src="https://user-images.githubusercontent.com/111000081/219480361-c054440f-e68f-4bee-a499-4417591535b0.png">
-
+<strong>16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały</strong>
