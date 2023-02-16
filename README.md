@@ -364,8 +364,8 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 # TASK 6
 ## Subtask 6-1
 <strong> 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd </strong>
-<br> <img width="167" alt="image" src="https://user-images.githubusercontent.com/111000081/219441540-eb2ac5d4-79ef-4777-b9e9-76c357bb2463.png">
-<br> <img width="256" alt="image" src="https://user-images.githubusercontent.com/111000081/219441687-f9426ded-0a6e-4345-9078-9d9a4d5d3c39.png">
+<br><img width="167" alt="image" src="https://user-images.githubusercontent.com/111000081/219441540-eb2ac5d4-79ef-4777-b9e9-76c357bb2463.png">
+<br><img width="256" alt="image" src="https://user-images.githubusercontent.com/111000081/219441687-f9426ded-0a6e-4345-9078-9d9a4d5d3c39.png">
 <strong><p align="justify">12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej. </strong></p>
 <br><img width="755" alt="image" src="https://user-images.githubusercontent.com/111000081/219443979-edc96604-995d-4285-badd-8924168400e4.png">
 <br><img width="120" alt="image" src="https://user-images.githubusercontent.com/111000081/219444049-818abca9-c78a-4629-b045-893a80929b48.png">
