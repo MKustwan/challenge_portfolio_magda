@@ -387,11 +387,11 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 <img width="401" alt="image" src="https://user-images.githubusercontent.com/111000081/219730132-d20af7d7-ba5d-47a7-9c82-17678eda1ef2.png">
 <img width="67" alt="image" src="https://user-images.githubusercontent.com/111000081/219730281-5f06a34d-217f-4a06-907f-738b0cd02407.png">
 <strong><p align="justify">18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie)</p></strong>
-<br>Zestawienie przed wykonaniem zapytania:
+Zestawienie przed wykonaniem zapytania:
 <img width="374" alt="image" src="https://user-images.githubusercontent.com/111000081/219732812-03d6daa4-8dcc-4590-a500-d60cdffb838c.png">
-<br>Zapytanie:
+Zapytanie:
 <img width="395" alt="image" src="https://user-images.githubusercontent.com/111000081/219733697-0de16045-9534-47d1-abc7-19fd78684bd6.png">
-<br>Zestawienie po wykonaniu zapytania:
+Zestawienie po wykonaniu zapytania:
 <img width="373" alt="image" src="https://user-images.githubusercontent.com/111000081/219734147-16acd6b6-3c96-44e2-b29b-4b615feb2d75.png">
 <strong>19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał</strong>
 <br><strong>20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa</strong>
