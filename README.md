@@ -399,5 +399,8 @@ Zestawienie po wykonaniu zapytania:
 <strong>20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa</strong>
 <img width="491" alt="image" src="https://user-images.githubusercontent.com/111000081/219741334-6dc1f4b0-91e7-4144-a96e-33938bb952a4.png">
 <img width="362" alt="image" src="https://user-images.githubusercontent.com/111000081/219741470-fce6a81b-784d-43af-9e0b-e3bb4cd13dbd.png">
-## Sub2ask 6-2
+## Subtask 6-2
+Wynik testu: 15/15😀
+<img width="443" alt="image" src="https://user-images.githubusercontent.com/111000081/219744127-5fa4fb00-9d35-4c19-869c-0318914c58ef.png">
+
 
