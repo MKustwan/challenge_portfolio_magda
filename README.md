@@ -394,4 +394,6 @@ Zapytanie:
 Zestawienie po wykonaniu zapytania:
 <img width="373" alt="image" src="https://user-images.githubusercontent.com/111000081/219734147-16acd6b6-3c96-44e2-b29b-4b615feb2d75.png">
 <strong>19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał</strong>
+<img width="311" alt="image" src="https://user-images.githubusercontent.com/111000081/219740396-e5d9db27-1520-4577-a783-dcbca06ba7f4.png">
+<img width="160" alt="image" src="https://user-images.githubusercontent.com/111000081/219740472-4399361b-8eb3-4177-8575-e64c9985577c.png">
 <br><strong>20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa</strong>
