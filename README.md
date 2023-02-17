@@ -397,3 +397,7 @@ Zestawienie po wykonaniu zapytania:
 <img width="311" alt="image" src="https://user-images.githubusercontent.com/111000081/219740396-e5d9db27-1520-4577-a783-dcbca06ba7f4.png">
 <img width="160" alt="image" src="https://user-images.githubusercontent.com/111000081/219740472-4399361b-8eb3-4177-8575-e64c9985577c.png">
 <strong>20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa</strong>
+<img width="491" alt="image" src="https://user-images.githubusercontent.com/111000081/219741334-6dc1f4b0-91e7-4144-a96e-33938bb952a4.png">
+<img width="362" alt="image" src="https://user-images.githubusercontent.com/111000081/219741470-fce6a81b-784d-43af-9e0b-e3bb4cd13dbd.png">
+## Sub2ask 6-2
+
