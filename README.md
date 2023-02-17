@@ -387,5 +387,7 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 <img width="401" alt="image" src="https://user-images.githubusercontent.com/111000081/219730132-d20af7d7-ba5d-47a7-9c82-17678eda1ef2.png">
 <img width="67" alt="image" src="https://user-images.githubusercontent.com/111000081/219730281-5f06a34d-217f-4a06-907f-738b0cd02407.png">
 <strong><p align="justify">18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie)</p></strong>
+<img width="228" alt="image" src="https://user-images.githubusercontent.com/111000081/219731691-802d6918-4e55-48b6-81d7-24a81d19ceae.png">
+<img width="374" alt="image" src="https://user-images.githubusercontent.com/111000081/219731853-ff298133-212d-44c1-8cc6-14da33b87be6.png">
 <strong>19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał</strong>
 <br><strong>20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa</strong>
