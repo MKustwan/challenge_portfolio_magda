@@ -29,7 +29,7 @@ I. [TASK 1](#TASK-1)
 <br>  VI. [TASK 6](#TASK-6)
 <br>  6.1. [Subtask 6-1](#subtask-6-1)
 <br>  6.2. [Subtask 6-2](#subtask-6-2)
-<br>  6.3. [Subtask 6-3](#subtask-6-3)
+
 # TASK 1 
 ## Subtask 1-1
 10/10
@@ -402,6 +402,5 @@ W aplikacjach webowych stosowana jest różna nawigacja a użytkownicy mogą sto
 ## Subtask 6-2
 Wynik testu: 15/15😀
 <br><img width="443" alt="image" src="https://user-images.githubusercontent.com/111000081/219744127-5fa4fb00-9d35-4c19-869c-0318914c58ef.png">
-## Subtask 6-3
-[Link do portfolio](https://github.com/ukj90/Portfolio_Magda.git)
+
 
